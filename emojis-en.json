@@ -1,0 +1,7303 @@
+
+  "😀": {
+    "name": "grinning face",
+    "skin_tone_support": false
+  },
+  "😃": {
+    "name": "grinning face with big eyes",
+    "skin_tone_support": false
+  },
+  "😄": {
+    "name": "grinning face with smiling eyes",
+    "skin_tone_support": false
+  },
+  "😁": {
+    "name": "beaming face with smiling eyes",
+    "skin_tone_support": false
+  },
+  "😆": {
+    "name": "grinning squinting face",
+    "skin_tone_support": false
+  },
+  "😅": {
+    "name": "grinning face with sweat",
+    "skin_tone_support": false
+  },
+  "🤣": {
+    "name": "rolling on the floor laughing",
+    "skin_tone_support": false
+  },
+  "😂": {
+    "name": "face with tears of joy",
+    "skin_tone_support": false
+  },
+  "🙂": {
+    "name": "slightly smiling face",
+    "skin_tone_support": false
+  },
+  "🙃": {
+    "name": "upside-down face",
+    "skin_tone_support": false
+  },
+  "🫠": {
+    "name": "melting face",
+    "skin_tone_support": false
+  },
+  "😉": {
+    "name": "winking face",
+    "skin_tone_support": false
+  },
+  "😊": {
+    "name": "smiling face with smiling eyes",
+    "skin_tone_support": false
+  },
+  "😇": {
+    "name": "smiling face with halo",
+    "skin_tone_support": false
+  },
+  "🥰": {
+    "name": "smiling face with hearts",
+    "skin_tone_support": false
+  },
+  "😍": {
+    "name": "smiling face with heart-eyes",
+    "skin_tone_support": false
+  },
+  "🤩": {
+    "name": "star-struck",
+    "skin_tone_support": false
+  },
+  "😘": {
+    "name": "face blowing a kiss",
+    "skin_tone_support": false
+  },
+  "😗": {
+    "name": "kissing face",
+    "skin_tone_support": false
+  },
+  "☺️": {
+    "name": "smiling face",
+    "skin_tone_support": false
+  },
+  "😚": {
+    "name": "kissing face with closed eyes",
+    "skin_tone_support": false
+  },
+  "😙": {
+    "name": "kissing face with smiling eyes",
+    "skin_tone_support": false
+  },
+  "🥲": {
+    "name": "smiling face with tear",
+    "skin_tone_support": false
+  },
+  "😋": {
+    "name": "face savoring food",
+    "skin_tone_support": false
+  },
+  "😛": {
+    "name": "face with tongue",
+    "skin_tone_support": false
+  },
+  "😜": {
+    "name": "winking face with tongue",
+    "skin_tone_support": false
+  },
+  "🤪": {
+    "name": "zany face",
+    "skin_tone_support": false
+  },
+  "😝": {
+    "name": "squinting face with tongue",
+    "skin_tone_support": false
+  },
+  "🤑": {
+    "name": "money-mouth face",
+    "skin_tone_support": false
+  },
+  "🤗": {
+    "name": "smiling face with open hands",
+    "skin_tone_support": false
+  },
+  "🤭": {
+    "name": "face with hand over mouth",
+    "skin_tone_support": false
+  },
+  "🫢": {
+    "name": "face with open eyes and hand over mouth",
+    "skin_tone_support": false
+  },
+  "🫣": {
+    "name": "face with peeking eye",
+    "skin_tone_support": false
+  },
+  "🤫": {
+    "name": "shushing face",
+    "skin_tone_support": false
+  },
+  "🤔": {
+    "name": "thinking face",
+    "skin_tone_support": false
+  },
+  "🫡": {
+    "name": "saluting face",
+    "skin_tone_support": false
+  },
+  "🤐": {
+    "name": "zipper-mouth face",
+    "skin_tone_support": false
+  },
+  "🤨": {
+    "name": "face with raised eyebrow",
+    "skin_tone_support": false
+  },
+  "😐": {
+    "name": "neutral face",
+    "skin_tone_support": false
+  },
+  "😑": {
+    "name": "expressionless face",
+    "skin_tone_support": false
+  },
+  "😶": {
+    "name": "face without mouth",
+    "skin_tone_support": false
+  },
+  "🫥": {
+    "name": "dotted line face",
+    "skin_tone_support": false
+  },
+  "😶‍🌫️": {
+    "name": "face in clouds",
+    "skin_tone_support": false
+  },
+  "😏": {
+    "name": "smirking face",
+    "skin_tone_support": false
+  },
+  "😒": {
+    "name": "unamused face",
+    "skin_tone_support": false
+  },
+  "🙄": {
+    "name": "face with rolling eyes",
+    "skin_tone_support": false
+  },
+  "😬": {
+    "name": "grimacing face",
+    "skin_tone_support": false
+  },
+  "😮‍💨": {
+    "name": "face exhaling",
+    "skin_tone_support": false
+  },
+  "🤥": {
+    "name": "lying face",
+    "skin_tone_support": false
+  },
+  "🫨": {
+    "name": "shaking face",
+    "skin_tone_support": false
+  },
+  "🙂‍↔️": {
+    "name": "head shaking horizontally",
+    "skin_tone_support": false
+  },
+  "🙂‍↕️": {
+    "name": "head shaking vertically",
+    "skin_tone_support": false
+  },
+  "😌": {
+    "name": "relieved face",
+    "skin_tone_support": false
+  },
+  "😔": {
+    "name": "pensive face",
+    "skin_tone_support": false
+  },
+  "😪": {
+    "name": "sleepy face",
+    "skin_tone_support": false
+  },
+  "🤤": {
+    "name": "drooling face",
+    "skin_tone_support": false
+  },
+  "😴": {
+    "name": "sleeping face",
+    "skin_tone_support": false
+  },
+  "🫩": {
+    "name": "face with bags under eyes",
+    "skin_tone_support": false
+  },
+  "😷": {
+    "name": "face with medical mask",
+    "skin_tone_support": false
+  },
+  "🤒": {
+    "name": "face with thermometer",
+    "skin_tone_support": false
+  },
+  "🤕": {
+    "name": "face with head-bandage",
+    "skin_tone_support": false
+  },
+  "🤢": {
+    "name": "nauseated face",
+    "skin_tone_support": false
+  },
+  "🤮": {
+    "name": "face vomiting",
+    "skin_tone_support": false
+  },
+  "🤧": {
+    "name": "sneezing face",
+    "skin_tone_support": false
+  },
+  "🥵": {
+    "name": "hot face",
+    "skin_tone_support": false
+  },
+  "🥶": {
+    "name": "cold face",
+    "skin_tone_support": false
+  },
+  "🥴": {
+    "name": "woozy face",
+    "skin_tone_support": false
+  },
+  "😵": {
+    "name": "face with crossed-out eyes",
+    "skin_tone_support": false
+  },
+  "😵‍💫": {
+    "name": "face with spiral eyes",
+    "skin_tone_support": false
+  },
+  "🤯": {
+    "name": "exploding head",
+    "skin_tone_support": false
+  },
+  "🤠": {
+    "name": "cowboy hat face",
+    "skin_tone_support": false
+  },
+  "🥳": {
+    "name": "partying face",
+    "skin_tone_support": false
+  },
+  "🥸": {
+    "name": "disguised face",
+    "skin_tone_support": false
+  },
+  "😎": {
+    "name": "smiling face with sunglasses",
+    "skin_tone_support": false
+  },
+  "🤓": {
+    "name": "nerd face",
+    "skin_tone_support": false
+  },
+  "🧐": {
+    "name": "face with monocle",
+    "skin_tone_support": false
+  },
+  "😕": {
+    "name": "confused face",
+    "skin_tone_support": false
+  },
+  "🫤": {
+    "name": "face with diagonal mouth",
+    "skin_tone_support": false
+  },
+  "😟": {
+    "name": "worried face",
+    "skin_tone_support": false
+  },
+  "🙁": {
+    "name": "slightly frowning face",
+    "skin_tone_support": false
+  },
+  "☹️": {
+    "name": "frowning face",
+    "skin_tone_support": false
+  },
+  "😮": {
+    "name": "face with open mouth",
+    "skin_tone_support": false
+  },
+  "😯": {
+    "name": "hushed face",
+    "skin_tone_support": false
+  },
+  "😲": {
+    "name": "astonished face",
+    "skin_tone_support": false
+  },
+  "😳": {
+    "name": "flushed face",
+    "skin_tone_support": false
+  },
+  "🥺": {
+    "name": "pleading face",
+    "skin_tone_support": false
+  },
+  "🥹": {
+    "name": "face holding back tears",
+    "skin_tone_support": false
+  },
+  "😦": {
+    "name": "frowning face with open mouth",
+    "skin_tone_support": false
+  },
+  "😧": {
+    "name": "anguished face",
+    "skin_tone_support": false
+  },
+  "😨": {
+    "name": "fearful face",
+    "skin_tone_support": false
+  },
+  "😰": {
+    "name": "anxious face with sweat",
+    "skin_tone_support": false
+  },
+  "😥": {
+    "name": "sad but relieved face",
+    "skin_tone_support": false
+  },
+  "😢": {
+    "name": "crying face",
+    "skin_tone_support": false
+  },
+  "😭": {
+    "name": "loudly crying face",
+    "skin_tone_support": false
+  },
+  "😱": {
+    "name": "face screaming in fear",
+    "skin_tone_support": false
+  },
+  "😖": {
+    "name": "confounded face",
+    "skin_tone_support": false
+  },
+  "😣": {
+    "name": "persevering face",
+    "skin_tone_support": false
+  },
+  "😞": {
+    "name": "disappointed face",
+    "skin_tone_support": false
+  },
+  "😓": {
+    "name": "downcast face with sweat",
+    "skin_tone_support": false
+  },
+  "😩": {
+    "name": "weary face",
+    "skin_tone_support": false
+  },
+  "😫": {
+    "name": "tired face",
+    "skin_tone_support": false
+  },
+  "🥱": {
+    "name": "yawning face",
+    "skin_tone_support": false
+  },
+  "😤": {
+    "name": "face with steam from nose",
+    "skin_tone_support": false
+  },
+  "😡": {
+    "name": "enraged face",
+    "skin_tone_support": false
+  },
+  "😠": {
+    "name": "angry face",
+    "skin_tone_support": false
+  },
+  "🤬": {
+    "name": "face with symbols on mouth",
+    "skin_tone_support": false
+  },
+  "😈": {
+    "name": "smiling face with horns",
+    "skin_tone_support": false
+  },
+  "👿": {
+    "name": "angry face with horns",
+    "skin_tone_support": false
+  },
+  "💀": {
+    "name": "skull",
+    "skin_tone_support": false
+  },
+  "☠️": {
+    "name": "skull and crossbones",
+    "skin_tone_support": false
+  },
+  "💩": {
+    "name": "pile of poo",
+    "skin_tone_support": false
+  },
+  "🤡": {
+    "name": "clown face",
+    "skin_tone_support": false
+  },
+  "👹": {
+    "name": "ogre",
+    "skin_tone_support": false
+  },
+  "👺": {
+    "name": "goblin",
+    "skin_tone_support": false
+  },
+  "👻": {
+    "name": "ghost",
+    "skin_tone_support": false
+  },
+  "👽": {
+    "name": "alien",
+    "skin_tone_support": false
+  },
+  "👾": {
+    "name": "alien monster",
+    "skin_tone_support": false
+  },
+  "🤖": {
+    "name": "robot",
+    "skin_tone_support": false
+  },
+  "😺": {
+    "name": "grinning cat",
+    "skin_tone_support": false
+  },
+  "😸": {
+    "name": "grinning cat with smiling eyes",
+    "skin_tone_support": false
+  },
+  "😹": {
+    "name": "cat with tears of joy",
+    "skin_tone_support": false
+  },
+  "😻": {
+    "name": "smiling cat with heart-eyes",
+    "skin_tone_support": false
+  },
+  "😼": {
+    "name": "cat with wry smile",
+    "skin_tone_support": false
+  },
+  "😽": {
+    "name": "kissing cat",
+    "skin_tone_support": false
+  },
+  "🙀": {
+    "name": "weary cat",
+    "skin_tone_support": false
+  },
+  "😿": {
+    "name": "crying cat",
+    "skin_tone_support": false
+  },
+  "😾": {
+    "name": "pouting cat",
+    "skin_tone_support": false
+  },
+  "🙈": {
+    "name": "see-no-evil monkey",
+    "skin_tone_support": false
+  },
+  "🙉": {
+    "name": "hear-no-evil monkey",
+    "skin_tone_support": false
+  },
+  "🙊": {
+    "name": "speak-no-evil monkey",
+    "skin_tone_support": false
+  },
+  "💌": {
+    "name": "love letter",
+    "skin_tone_support": false
+  },
+  "💘": {
+    "name": "heart with arrow",
+    "skin_tone_support": false
+  },
+  "💝": {
+    "name": "heart with ribbon",
+    "skin_tone_support": false
+  },
+  "💖": {
+    "name": "sparkling heart",
+    "skin_tone_support": false
+  },
+  "💗": {
+    "name": "growing heart",
+    "skin_tone_support": false
+  },
+  "💓": {
+    "name": "beating heart",
+    "skin_tone_support": false
+  },
+  "💞": {
+    "name": "revolving hearts",
+    "skin_tone_support": false
+  },
+  "💕": {
+    "name": "two hearts",
+    "skin_tone_support": false
+  },
+  "💟": {
+    "name": "heart decoration",
+    "skin_tone_support": false
+  },
+  "❣️": {
+    "name": "heart exclamation",
+    "skin_tone_support": false
+  },
+  "💔": {
+    "name": "broken heart",
+    "skin_tone_support": false
+  },
+  "❤️‍🔥": {
+    "name": "heart on fire",
+    "skin_tone_support": false
+  },
+  "❤️‍🩹": {
+    "name": "mending heart",
+    "skin_tone_support": false
+  },
+  "❤️": {
+    "name": "red heart",
+    "skin_tone_support": false
+  },
+  "🩷": {
+    "name": "pink heart",
+    "skin_tone_support": false
+  },
+  "🧡": {
+    "name": "orange heart",
+    "skin_tone_support": false
+  },
+  "💛": {
+    "name": "yellow heart",
+    "skin_tone_support": false
+  },
+  "💚": {
+    "name": "green heart",
+    "skin_tone_support": false
+  },
+  "💙": {
+    "name": "blue heart",
+    "skin_tone_support": false
+  },
+  "🩵": {
+    "name": "light blue heart",
+    "skin_tone_support": false
+  },
+  "💜": {
+    "name": "purple heart",
+    "skin_tone_support": false
+  },
+  "🤎": {
+    "name": "brown heart",
+    "skin_tone_support": false
+  },
+  "🖤": {
+    "name": "black heart",
+    "skin_tone_support": false
+  },
+  "🩶": {
+    "name": "grey heart",
+    "skin_tone_support": false
+  },
+  "🤍": {
+    "name": "white heart",
+    "skin_tone_support": false
+  },
+  "💋": {
+    "name": "kiss mark",
+    "skin_tone_support": false
+  },
+  "💯": {
+    "name": "hundred points",
+    "skin_tone_support": false
+  },
+  "💢": {
+    "name": "anger symbol",
+    "skin_tone_support": false
+  },
+  "💥": {
+    "name": "collision",
+    "skin_tone_support": false
+  },
+  "💫": {
+    "name": "dizzy",
+    "skin_tone_support": false
+  },
+  "💦": {
+    "name": "sweat droplets",
+    "skin_tone_support": false
+  },
+  "💨": {
+    "name": "dashing away",
+    "skin_tone_support": false
+  },
+  "🕳️": {
+    "name": "hole",
+    "skin_tone_support": false
+  },
+  "💬": {
+    "name": "speech balloon",
+    "skin_tone_support": false
+  },
+  "👁️‍🗨️": {
+    "name": "eye in speech bubble",
+    "skin_tone_support": false
+  },
+  "🗨️": {
+    "name": "left speech bubble",
+    "skin_tone_support": false
+  },
+  "🗯️": {
+    "name": "right anger bubble",
+    "skin_tone_support": false
+  },
+  "💭": {
+    "name": "thought balloon",
+    "skin_tone_support": false
+  },
+  "💤": {
+    "name": "ZZZ",
+    "skin_tone_support": false
+  },
+  "👋": {
+    "name": "waving hand",
+    "skin_tone_support": true,
+  "🤚": {
+    "name": "raised back of hand",
+    "skin_tone_support": true,
+  "🖐️": {
+    "name": "hand with fingers splayed",
+    "skin_tone_support": true,
+  "✋": {
+    "name": "raised hand",
+    "skin_tone_support": true,
+  "🖖": {
+    "name": "vulcan salute",
+    "skin_tone_support": true,
+  "🫱": {
+    "name": "rightwards hand",
+    "skin_tone_support": true,
+  "🫲": {
+    "name": "leftwards hand",
+    "skin_tone_support": true,
+  "🫳": {
+    "name": "palm down hand",
+    "skin_tone_support": true,
+  "🫴": {
+    "name": "palm up hand",
+    "skin_tone_support": true,
+  "🫷": {
+    "name": "leftwards pushing hand",
+    "skin_tone_support": true,
+  "🫸": {
+    "name": "rightwards pushing hand",
+    "skin_tone_support": true,
+  "👌": {
+    "name": "OK hand",
+    "skin_tone_support": true,
+  "🤌": {
+    "name": "pinched fingers",
+    "skin_tone_support": true,
+  "🤏": {
+    "name": "pinching hand",
+    "skin_tone_support": true,
+  "✌️": {
+    "name": "victory hand",
+    "skin_tone_support": true,
+  "🤞": {
+    "name": "crossed fingers",
+    "skin_tone_support": true,
+  "🫰": {
+    "name": "hand with index finger and thumb crossed",
+    "skin_tone_support": true,
+  "🤟": {
+    "name": "love-you gesture",
+    "skin_tone_support": true,
+  "🤘": {
+    "name": "sign of the horns",
+    "skin_tone_support": true,
+  "🤙": {
+    "name": "call me hand",
+    "skin_tone_support": true,
+  "👈": {
+    "name": "backhand index pointing left",
+    "skin_tone_support": true,
+  "👉": {
+    "name": "backhand index pointing right",
+    "skin_tone_support": true,
+  "👆": {
+    "name": "backhand index pointing up",
+    "skin_tone_support": true,
+  "🖕": {
+    "name": "middle finger",
+    "skin_tone_support": true,
+  "👇": {
+    "name": "backhand index pointing down",
+    "skin_tone_support": true,
+  "☝️": {
+    "name": "index pointing up",
+    "skin_tone_support": true,
+  "🫵": {
+    "name": "index pointing at the viewer",
+    "skin_tone_support": true,
+  "👍": {
+    "name": "thumbs up",
+    "skin_tone_support": true,
+  "👎": {
+    "name": "thumbs down",
+    "skin_tone_support": true,
+  "✊": {
+    "name": "raised fist",
+    "skin_tone_support": true,
+  "👊": {
+    "name": "oncoming fist",
+    "skin_tone_support": true,
+  "🤛": {
+    "name": "left-facing fist",
+    "skin_tone_support": true,
+  "🤜": {
+    "name": "right-facing fist",
+    "skin_tone_support": true,
+  "👏": {
+    "name": "clapping hands",
+    "skin_tone_support": true,
+  "🙌": {
+    "name": "raising hands",
+    "skin_tone_support": true,
+  "🫶": {
+    "name": "heart hands",
+    "skin_tone_support": true,
+  "👐": {
+    "name": "open hands",
+    "skin_tone_support": true,
+  "🤲": {
+    "name": "palms up together",
+    "skin_tone_support": true,
+  "🤝": {
+    "name": "handshake",
+    "skin_tone_support": true,
+  "🙏": {
+    "name": "folded hands",
+    "skin_tone_support": true,
+  "✍️": {
+    "name": "writing hand",
+    "skin_tone_support": true,
+  "💅": {
+    "name": "nail polish",
+    "skin_tone_support": true,
+  "🤳": {
+    "name": "selfie",
+    "skin_tone_support": true,
+  "💪": {
+    "name": "flexed biceps",
+    "skin_tone_support": true,
+  "🦾": {
+    "name": "mechanical arm",
+    "skin_tone_support": false
+  },
+  "🦿": {
+    "name": "mechanical leg",
+    "skin_tone_support": false
+  },
+  "🦵": {
+    "name": "leg",
+    "skin_tone_support": true,
+  "🦶": {
+    "name": "foot",
+    "skin_tone_support": true,
+  "👂": {
+    "name": "ear",
+    "skin_tone_support": true,
+  "🦻": {
+    "name": "ear with hearing aid",
+    "skin_tone_support": true,
+  "👃": {
+    "name": "nose",
+    "skin_tone_support": true,
+  "🧠": {
+    "name": "brain",
+    "skin_tone_support": false
+  },
+  "🫀": {
+    "name": "anatomical heart",
+    "skin_tone_support": false
+  },
+  "🫁": {
+    "name": "lungs",
+    "skin_tone_support": false
+  },
+  "🦷": {
+    "name": "tooth",
+    "skin_tone_support": false
+  },
+  "🦴": {
+    "name": "bone",
+    "skin_tone_support": false
+  },
+  "👀": {
+    "name": "eyes",
+    "skin_tone_support": false
+  },
+  "👁️": {
+    "name": "eye",
+    "skin_tone_support": false
+  },
+  "👅": {
+    "name": "tongue",
+    "skin_tone_support": false
+  },
+  "👄": {
+    "name": "mouth",
+    "skin_tone_support": false
+  },
+  "🫦": {
+    "name": "biting lip",
+    "skin_tone_support": false
+  },
+  "👶": {
+    "name": "baby",
+    "skin_tone_support": true,
+  "🧒": {
+    "name": "child",
+    "skin_tone_support": true,
+  "👦": {
+    "name": "boy",
+    "skin_tone_support": true,
+  "👧": {
+    "name": "girl",
+    "skin_tone_support": true,
+  "🧑": {
+    "name": "person",
+    "skin_tone_support": true,
+  "👱": {
+    "name": "person blond hair",
+    "skin_tone_support": true,
+  "👨": {
+    "name": "man",
+    "skin_tone_support": true,
+  "🧔": {
+    "name": "person beard",
+    "skin_tone_support": true,
+  "🧔‍♂️": {
+    "name": "man beard",
+    "skin_tone_support": true,
+  "🧔‍♀️": {
+    "name": "woman beard",
+    "skin_tone_support": true,
+  "👨‍🦰": {
+    "name": "man red hair",
+    "skin_tone_support": true,
+  "👨‍🦱": {
+    "name": "man curly hair",
+    "skin_tone_support": true,
+  "👨‍🦳": {
+    "name": "man white hair",
+    "skin_tone_support": true,
+  "👨‍🦲": {
+    "name": "man bald",
+    "skin_tone_support": true,
+  "👩": {
+    "name": "woman",
+    "skin_tone_support": true,
+  "👩‍🦰": {
+    "name": "woman red hair",
+    "skin_tone_support": true,
+  "🧑‍🦰": {
+    "name": "person red hair",
+    "skin_tone_support": true,
+  "👩‍🦱": {
+    "name": "woman curly hair",
+    "skin_tone_support": true,
+  "🧑‍🦱": {
+    "name": "person curly hair",
+    "skin_tone_support": true,
+  "👩‍🦳": {
+    "name": "woman white hair",
+    "skin_tone_support": true,
+  "🧑‍🦳": {
+    "name": "person white hair",
+    "skin_tone_support": true,
+  "👩‍🦲": {
+    "name": "woman bald",
+    "skin_tone_support": true,
+  "🧑‍🦲": {
+    "name": "person bald",
+    "skin_tone_support": true,
+  "👱‍♀️": {
+    "name": "woman blond hair",
+    "skin_tone_support": true,
+  "👱‍♂️": {
+    "name": "man blond hair",
+    "skin_tone_support": true,
+  "🧓": {
+    "name": "older person",
+    "skin_tone_support": true,
+  "👴": {
+    "name": "old man",
+    "skin_tone_support": true,
+  "👵": {
+    "name": "old woman",
+    "skin_tone_support": true,
+  "🙍": {
+    "name": "person frowning",
+    "skin_tone_support": true,
+  "🙍‍♂️": {
+    "name": "man frowning",
+    "skin_tone_support": true,
+  "🙍‍♀️": {
+    "name": "woman frowning",
+    "skin_tone_support": true,
+  "🙎": {
+    "name": "person pouting",
+    "skin_tone_support": true,
+  "🙎‍♂️": {
+    "name": "man pouting",
+    "skin_tone_support": true,
+  "🙎‍♀️": {
+    "name": "woman pouting",
+    "skin_tone_support": true,
+  "🙅": {
+    "name": "person gesturing NO",
+    "skin_tone_support": true,
+  "🙅‍♂️": {
+    "name": "man gesturing NO",
+    "skin_tone_support": true,
+  "🙅‍♀️": {
+    "name": "woman gesturing NO",
+    "skin_tone_support": true,
+  "🙆": {
+    "name": "person gesturing OK",
+    "skin_tone_support": true,
+  "🙆‍♂️": {
+    "name": "man gesturing OK",
+    "skin_tone_support": true,
+  "🙆‍♀️": {
+    "name": "woman gesturing OK",
+    "skin_tone_support": true,
+  "💁": {
+    "name": "person tipping hand",
+    "skin_tone_support": true,
+  "💁‍♂️": {
+    "name": "man tipping hand",
+    "skin_tone_support": true,
+  "💁‍♀️": {
+    "name": "woman tipping hand",
+    "skin_tone_support": true,
+  "🙋": {
+    "name": "person raising hand",
+    "skin_tone_support": true,
+  "🙋‍♂️": {
+    "name": "man raising hand",
+    "skin_tone_support": true,
+  "🙋‍♀️": {
+    "name": "woman raising hand",
+    "skin_tone_support": true,
+  "🧏": {
+    "name": "deaf person",
+    "skin_tone_support": true,
+  "🧏‍♂️": {
+    "name": "deaf man",
+    "skin_tone_support": true,
+  "🧏‍♀️": {
+    "name": "deaf woman",
+    "skin_tone_support": true,
+  "🙇": {
+    "name": "person bowing",
+    "skin_tone_support": true,
+  "🙇‍♂️": {
+    "name": "man bowing",
+    "skin_tone_support": true,
+  "🙇‍♀️": {
+    "name": "woman bowing",
+    "skin_tone_support": true,
+  "🤦": {
+    "name": "person facepalming",
+    "skin_tone_support": true,
+  "🤦‍♂️": {
+    "name": "man facepalming",
+    "skin_tone_support": true,
+  "🤦‍♀️": {
+    "name": "woman facepalming",
+    "skin_tone_support": true,
+  "🤷": {
+    "name": "person shrugging",
+    "skin_tone_support": true,
+  "🤷‍♂️": {
+    "name": "man shrugging",
+    "skin_tone_support": true,
+  "🤷‍♀️": {
+    "name": "woman shrugging",
+    "skin_tone_support": true,
+  "🧑‍⚕️": {
+    "name": "health worker",
+    "skin_tone_support": true,
+  "👨‍⚕️": {
+    "name": "man health worker",
+    "skin_tone_support": true,
+  "👩‍⚕️": {
+    "name": "woman health worker",
+    "skin_tone_support": true,
+  "🧑‍🎓": {
+    "name": "student",
+    "skin_tone_support": true,
+  "👨‍🎓": {
+    "name": "man student",
+    "skin_tone_support": true,
+  "👩‍🎓": {
+    "name": "woman student",
+    "skin_tone_support": true,
+  "🧑‍🏫": {
+    "name": "teacher",
+    "skin_tone_support": true,
+  "👨‍🏫": {
+    "name": "man teacher",
+    "skin_tone_support": true,
+  "👩‍🏫": {
+    "name": "woman teacher",
+    "skin_tone_support": true,
+  "🧑‍⚖️": {
+    "name": "judge",
+    "skin_tone_support": true,
+  "👨‍⚖️": {
+    "name": "man judge",
+    "skin_tone_support": true,
+  "👩‍⚖️": {
+    "name": "woman judge",
+    "skin_tone_support": true,
+  "🧑‍🌾": {
+    "name": "farmer",
+    "skin_tone_support": true,
+  "👨‍🌾": {
+    "name": "man farmer",
+    "skin_tone_support": true,
+  "👩‍🌾": {
+    "name": "woman farmer",
+    "skin_tone_support": true,
+  "🧑‍🍳": {
+    "name": "cook",
+    "skin_tone_support": true,
+  "👨‍🍳": {
+    "name": "man cook",
+    "skin_tone_support": true,
+  "👩‍🍳": {
+    "name": "woman cook",
+    "skin_tone_support": true,
+  "🧑‍🔧": {
+    "name": "mechanic",
+    "skin_tone_support": true,
+  "👨‍🔧": {
+    "name": "man mechanic",
+    "skin_tone_support": true,
+  "👩‍🔧": {
+    "name": "woman mechanic",
+    "skin_tone_support": true,
+  "🧑‍🏭": {
+    "name": "factory worker",
+    "skin_tone_support": true,
+  "👨‍🏭": {
+    "name": "man factory worker",
+    "skin_tone_support": true,
+  "👩‍🏭": {
+    "name": "woman factory worker",
+    "skin_tone_support": true,
+  "🧑‍💼": {
+    "name": "office worker",
+    "skin_tone_support": true,
+  "👨‍💼": {
+    "name": "man office worker",
+    "skin_tone_support": true,
+  "👩‍💼": {
+    "name": "woman office worker",
+    "skin_tone_support": true,
+  "🧑‍🔬": {
+    "name": "scientist",
+    "skin_tone_support": true,
+  "👨‍🔬": {
+    "name": "man scientist",
+    "skin_tone_support": true,
+  "👩‍🔬": {
+    "name": "woman scientist",
+    "skin_tone_support": true,
+  "🧑‍💻": {
+    "name": "technologist",
+    "skin_tone_support": true,
+  "👨‍💻": {
+    "name": "man technologist",
+    "skin_tone_support": true,
+  "👩‍💻": {
+    "name": "woman technologist",
+    "skin_tone_support": true,
+  "🧑‍🎤": {
+    "name": "singer",
+    "skin_tone_support": true,
+  "👨‍🎤": {
+    "name": "man singer",
+    "skin_tone_support": true,
+  "👩‍🎤": {
+    "name": "woman singer",
+    "skin_tone_support": true,
+  "🧑‍🎨": {
+    "name": "artist",
+    "skin_tone_support": true,
+  "👨‍🎨": {
+    "name": "man artist",
+    "skin_tone_support": true,
+  "👩‍🎨": {
+    "name": "woman artist",
+    "skin_tone_support": true,
+  "🧑‍✈️": {
+    "name": "pilot",
+    "skin_tone_support": true,
+  "👨‍✈️": {
+    "name": "man pilot",
+    "skin_tone_support": true,
+  "👩‍✈️": {
+    "name": "woman pilot",
+    "skin_tone_support": true,
+  "🧑‍🚀": {
+    "name": "astronaut",
+    "skin_tone_support": true,
+  "👨‍🚀": {
+    "name": "man astronaut",
+    "skin_tone_support": true,
+  "👩‍🚀": {
+    "name": "woman astronaut",
+    "skin_tone_support": true,
+  "🧑‍🚒": {
+    "name": "firefighter",
+    "skin_tone_support": true,
+  "👨‍🚒": {
+    "name": "man firefighter",
+    "skin_tone_support": true,
+  "👩‍🚒": {
+    "name": "woman firefighter",
+    "skin_tone_support": true,
+  "👮": {
+    "name": "police officer",
+    "skin_tone_support": true,
+  "👮‍♂️": {
+    "name": "man police officer",
+    "skin_tone_support": true,
+  "👮‍♀️": {
+    "name": "woman police officer",
+    "skin_tone_support": true,
+  "🕵️": {
+    "name": "detective",
+    "skin_tone_support": true,
+  "🕵️‍♂️": {
+    "name": "man detective",
+    "skin_tone_support": true,
+  "🕵️‍♀️": {
+    "name": "woman detective",
+    "skin_tone_support": true,
+  "💂": {
+    "name": "guard",
+    "skin_tone_support": true,
+  "💂‍♂️": {
+    "name": "man guard",
+    "skin_tone_support": true,
+  "💂‍♀️": {
+    "name": "woman guard",
+    "skin_tone_support": true,
+  "🥷": {
+    "name": "ninja",
+    "skin_tone_support": true,
+  "👷": {
+    "name": "construction worker",
+    "skin_tone_support": true,
+  "👷‍♂️": {
+    "name": "man construction worker",
+    "skin_tone_support": true,
+  "👷‍♀️": {
+    "name": "woman construction worker",
+    "skin_tone_support": true,
+  "🫅": {
+    "name": "person with crown",
+    "skin_tone_support": true,
+  "🤴": {
+    "name": "prince",
+    "skin_tone_support": true,
+  "👸": {
+    "name": "princess",
+    "skin_tone_support": true,
+  "👳": {
+    "name": "person wearing turban",
+    "skin_tone_support": true,
+  "👳‍♂️": {
+    "name": "man wearing turban",
+    "skin_tone_support": true,
+  "👳‍♀️": {
+    "name": "woman wearing turban",
+    "skin_tone_support": true,
+  "👲": {
+    "name": "person with skullcap",
+    "skin_tone_support": true,
+  "🧕": {
+    "name": "woman with headscarf",
+    "skin_tone_support": true,
+  "🤵": {
+    "name": "person in tuxedo",
+    "skin_tone_support": true,
+  "🤵‍♂️": {
+    "name": "man in tuxedo",
+    "skin_tone_support": true,
+  "🤵‍♀️": {
+    "name": "woman in tuxedo",
+    "skin_tone_support": true,
+  "👰": {
+    "name": "person with veil",
+    "skin_tone_support": true,
+  "👰‍♂️": {
+    "name": "man with veil",
+    "skin_tone_support": true,
+  "👰‍♀️": {
+    "name": "woman with veil",
+    "skin_tone_support": true,
+  "🤰": {
+    "name": "pregnant woman",
+    "skin_tone_support": true,
+  "🫃": {
+    "name": "pregnant man",
+    "skin_tone_support": true,
+  "🫄": {
+    "name": "pregnant person",
+    "skin_tone_support": true,
+  "🤱": {
+    "name": "breast-feeding",
+    "skin_tone_support": true,
+  "👩‍🍼": {
+    "name": "woman feeding baby",
+    "skin_tone_support": true,
+  "👨‍🍼": {
+    "name": "man feeding baby",
+    "skin_tone_support": true,
+  "🧑‍🍼": {
+    "name": "person feeding baby",
+    "skin_tone_support": true,
+  "👼": {
+    "name": "baby angel",
+    "skin_tone_support": true,
+  "🎅": {
+    "name": "Santa Claus",
+    "skin_tone_support": true,
+  "🤶": {
+    "name": "Mrs. Claus",
+    "skin_tone_support": true,
+  "🧑‍🎄": {
+    "name": "Mx Claus",
+    "skin_tone_support": true,
+  "🦸": {
+    "name": "superhero",
+    "skin_tone_support": true,
+  "🦸‍♂️": {
+    "name": "man superhero",
+    "skin_tone_support": true,
+  "🦸‍♀️": {
+    "name": "woman superhero",
+    "skin_tone_support": true,
+  "🦹": {
+    "name": "supervillain",
+    "skin_tone_support": true,
+  "🦹‍♂️": {
+    "name": "man supervillain",
+    "skin_tone_support": true,
+  "🦹‍♀️": {
+    "name": "woman supervillain",
+    "skin_tone_support": true,
+  "🧙": {
+    "name": "mage",
+    "skin_tone_support": true,
+  "🧙‍♂️": {
+    "name": "man mage",
+    "skin_tone_support": true,
+  "🧙‍♀️": {
+    "name": "woman mage",
+    "skin_tone_support": true,
+  "🧚": {
+    "name": "fairy",
+    "skin_tone_support": true,
+  "🧚‍♂️": {
+    "name": "man fairy",
+    "skin_tone_support": true,
+  "🧚‍♀️": {
+    "name": "woman fairy",
+    "skin_tone_support": true,
+  "🧛": {
+    "name": "vampire",
+    "skin_tone_support": true,
+  "🧛‍♂️": {
+    "name": "man vampire",
+    "skin_tone_support": true,
+  "🧛‍♀️": {
+    "name": "woman vampire",
+    "skin_tone_support": true,
+  "🧜": {
+    "name": "merperson",
+    "skin_tone_support": true,
+  "🧜‍♂️": {
+    "name": "merman",
+    "skin_tone_support": true,
+  "🧜‍♀️": {
+    "name": "mermaid",
+    "skin_tone_support": true,
+  "🧝": {
+    "name": "elf",
+    "skin_tone_support": true,
+  "🧝‍♂️": {
+    "name": "man elf",
+    "skin_tone_support": true,
+  "🧝‍♀️": {
+    "name": "woman elf",
+    "skin_tone_support": true,
+  "🧞": {
+    "name": "genie",
+    "skin_tone_support": false
+  },
+  "🧞‍♂️": {
+    "name": "man genie",
+    "skin_tone_support": false
+  },
+  "🧞‍♀️": {
+    "name": "woman genie",
+    "skin_tone_support": false
+  },
+  "🧟": {
+    "name": "zombie",
+    "skin_tone_support": false
+  },
+  "🧟‍♂️": {
+    "name": "man zombie",
+    "skin_tone_support": false
+  },
+  "🧟‍♀️": {
+    "name": "woman zombie",
+    "skin_tone_support": false
+  },
+  "🧌": {
+    "name": "troll",
+    "skin_tone_support": false
+  },
+  "💆": {
+    "name": "person getting massage",
+    "skin_tone_support": true,
+  "💆‍♂️": {
+    "name": "man getting massage",
+    "skin_tone_support": true,
+  "💆‍♀️": {
+    "name": "woman getting massage",
+    "skin_tone_support": true,
+  "💇": {
+    "name": "person getting haircut",
+    "skin_tone_support": true,
+  "💇‍♂️": {
+    "name": "man getting haircut",
+    "skin_tone_support": true,
+  "💇‍♀️": {
+    "name": "woman getting haircut",
+    "skin_tone_support": true,
+  "🚶": {
+    "name": "person walking",
+    "skin_tone_support": true,
+  "🚶‍♂️": {
+    "name": "man walking",
+    "skin_tone_support": true,
+  "🚶‍♀️": {
+    "name": "woman walking",
+    "skin_tone_support": true,
+  "🚶‍➡️": {
+    "name": "person walking facing right",
+    "skin_tone_support": true,
+  "🚶‍♀️‍➡️": {
+    "name": "woman walking facing right",
+    "skin_tone_support": true,
+  "🚶‍♂️‍➡️": {
+    "name": "man walking facing right",
+    "skin_tone_support": true,
+  "🧍": {
+    "name": "person standing",
+    "skin_tone_support": true,
+  "🧍‍♂️": {
+    "name": "man standing",
+    "skin_tone_support": true,
+  "🧍‍♀️": {
+    "name": "woman standing",
+    "skin_tone_support": true,
+  "🧎": {
+    "name": "person kneeling",
+    "skin_tone_support": true,
+  "🧎‍♂️": {
+    "name": "man kneeling",
+    "skin_tone_support": true,
+  "🧎‍♀️": {
+    "name": "woman kneeling",
+    "skin_tone_support": true,
+  "🧎‍➡️": {
+    "name": "person kneeling facing right",
+    "skin_tone_support": true,
+  "🧎‍♀️‍➡️": {
+    "name": "woman kneeling facing right",
+    "skin_tone_support": true,
+  "🧎‍♂️‍➡️": {
+    "name": "man kneeling facing right",
+    "skin_tone_support": true,
+  "🧑‍🦯": {
+    "name": "person with white cane",
+    "skin_tone_support": true,
+  "🧑‍🦯‍➡️": {
+    "name": "person with white cane facing right",
+    "skin_tone_support": true,
+  "👨‍🦯": {
+    "name": "man with white cane",
+    "skin_tone_support": true,
+  "👨‍🦯‍➡️": {
+    "name": "man with white cane facing right",
+    "skin_tone_support": true,
+  "👩‍🦯": {
+    "name": "woman with white cane",
+    "skin_tone_support": true,
+  "👩‍🦯‍➡️": {
+    "name": "woman with white cane facing right",
+    "skin_tone_support": true,
+  "🧑‍🦼": {
+    "name": "person in motorized wheelchair",
+    "skin_tone_support": true,
+  "🧑‍🦼‍➡️": {
+    "name": "person in motorized wheelchair facing right",
+    "skin_tone_support": true,
+  "👨‍🦼": {
+    "name": "man in motorized wheelchair",
+    "skin_tone_support": true,
+  "👨‍🦼‍➡️": {
+    "name": "man in motorized wheelchair facing right",
+    "skin_tone_support": true,
+  "👩‍🦼": {
+    "name": "woman in motorized wheelchair",
+    "skin_tone_support": true,
+  "👩‍🦼‍➡️": {
+    "name": "woman in motorized wheelchair facing right",
+    "skin_tone_support": true,
+  "🧑‍🦽": {
+    "name": "person in manual wheelchair",
+    "skin_tone_support": true,
+  "🧑‍🦽‍➡️": {
+    "name": "person in manual wheelchair facing right",
+    "skin_tone_support": true,
+  "👨‍🦽": {
+    "name": "man in manual wheelchair",
+    "skin_tone_support": true,
+  "👨‍🦽‍➡️": {
+    "name": "man in manual wheelchair facing right",
+    "skin_tone_support": true,
+  "👩‍🦽": {
+    "name": "woman in manual wheelchair",
+    "skin_tone_support": true,
+  "👩‍🦽‍➡️": {
+    "name": "woman in manual wheelchair facing right",
+    "skin_tone_support": true,
+  "🏃": {
+    "name": "person running",
+    "skin_tone_support": true,
+  "🏃‍♂️": {
+    "name": "man running",
+    "skin_tone_support": true,
+  "🏃‍♀️": {
+    "name": "woman running",
+    "skin_tone_support": true,
+  "🏃‍➡️": {
+    "name": "person running facing right",
+    "skin_tone_support": true,
+  "🏃‍♀️‍➡️": {
+    "name": "woman running facing right",
+    "skin_tone_support": true,
+  "🏃‍♂️‍➡️": {
+    "name": "man running facing right",
+    "skin_tone_support": true,
+  "💃": {
+    "name": "woman dancing",
+    "skin_tone_support": true,
+  "🕺": {
+    "name": "man dancing",
+    "skin_tone_support": true,
+  "🕴️": {
+    "name": "person in suit levitating",
+    "skin_tone_support": true,
+  "👯": {
+    "name": "people with bunny ears",
+    "skin_tone_support": false
+  },
+  "👯‍♂️": {
+    "name": "men with bunny ears",
+    "skin_tone_support": false
+  },
+  "👯‍♀️": {
+    "name": "women with bunny ears",
+    "skin_tone_support": false
+  },
+  "🧖": {
+    "name": "person in steamy room",
+    "skin_tone_support": true,
+  "🧖‍♂️": {
+    "name": "man in steamy room",
+    "skin_tone_support": true,
+  "🧖‍♀️": {
+    "name": "woman in steamy room",
+    "skin_tone_support": true,
+  "🧗": {
+    "name": "person climbing",
+    "skin_tone_support": true,
+  "🧗‍♂️": {
+    "name": "man climbing",
+    "skin_tone_support": true,
+  "🧗‍♀️": {
+    "name": "woman climbing",
+    "skin_tone_support": true,
+  "🤺": {
+    "name": "person fencing",
+    "skin_tone_support": false
+  },
+  "🏇": {
+    "name": "horse racing",
+    "skin_tone_support": true,
+  "⛷️": {
+    "name": "skier",
+    "skin_tone_support": false
+  },
+  "🏂": {
+    "name": "snowboarder",
+    "skin_tone_support": true,
+  "🏌️": {
+    "name": "person golfing",
+    "skin_tone_support": true,
+  "🏌️‍♂️": {
+    "name": "man golfing",
+    "skin_tone_support": true,
+  "🏌️‍♀️": {
+    "name": "woman golfing",
+    "skin_tone_support": true,
+  "🏄": {
+    "name": "person surfing",
+    "skin_tone_support": true,
+  "🏄‍♂️": {
+    "name": "man surfing",
+    "skin_tone_support": true,
+  "🏄‍♀️": {
+    "name": "woman surfing",
+    "skin_tone_support": true,
+  "🚣": {
+    "name": "person rowing boat",
+    "skin_tone_support": true,
+  "🚣‍♂️": {
+    "name": "man rowing boat",
+    "skin_tone_support": true,
+  "🚣‍♀️": {
+    "name": "woman rowing boat",
+    "skin_tone_support": true,
+  "🏊": {
+    "name": "person swimming",
+    "skin_tone_support": true,
+  "🏊‍♂️": {
+    "name": "man swimming",
+    "skin_tone_support": true,
+  "🏊‍♀️": {
+    "name": "woman swimming",
+    "skin_tone_support": true,
+  "⛹️": {
+    "name": "person bouncing ball",
+    "skin_tone_support": true,
+  "⛹️‍♂️": {
+    "name": "man bouncing ball",
+    "skin_tone_support": true,
+  "⛹️‍♀️": {
+    "name": "woman bouncing ball",
+    "skin_tone_support": true,
+  "🏋️": {
+    "name": "person lifting weights",
+    "skin_tone_support": true,
+  "🏋️‍♂️": {
+    "name": "man lifting weights",
+    "skin_tone_support": true,
+  "🏋️‍♀️": {
+    "name": "woman lifting weights",
+    "skin_tone_support": true,
+  "🚴": {
+    "name": "person biking",
+    "skin_tone_support": true,
+  "🚴‍♂️": {
+    "name": "man biking",
+    "skin_tone_support": true,
+  "🚴‍♀️": {
+    "name": "woman biking",
+    "skin_tone_support": true,
+  "🚵": {
+    "name": "person mountain biking",
+    "skin_tone_support": true,
+  "🚵‍♂️": {
+    "name": "man mountain biking",
+    "skin_tone_support": true,
+  "🚵‍♀️": {
+    "name": "woman mountain biking",
+    "skin_tone_support": true,
+  "🤸": {
+    "name": "person cartwheeling",
+    "skin_tone_support": true,
+  "🤸‍♂️": {
+    "name": "man cartwheeling",
+    "skin_tone_support": true,
+  "🤸‍♀️": {
+    "name": "woman cartwheeling",
+    "skin_tone_support": true,
+  "🤼": {
+    "name": "people wrestling",
+    "skin_tone_support": false
+  },
+  "🤼‍♂️": {
+    "name": "men wrestling",
+    "skin_tone_support": false
+  },
+  "🤼‍♀️": {
+    "name": "women wrestling",
+    "skin_tone_support": false
+  },
+  "🤽": {
+    "name": "person playing water polo",
+    "skin_tone_support": true,
+  "🤽‍♂️": {
+    "name": "man playing water polo",
+    "skin_tone_support": true,
+  "🤽‍♀️": {
+    "name": "woman playing water polo",
+    "skin_tone_support": true,
+  "🤾": {
+    "name": "person playing handball",
+    "skin_tone_support": true,
+  "🤾‍♂️": {
+    "name": "man playing handball",
+    "skin_tone_support": true,
+  "🤾‍♀️": {
+    "name": "woman playing handball",
+    "skin_tone_support": true,
+  "🤹": {
+    "name": "person juggling",
+    "skin_tone_support": true,
+  "🤹‍♂️": {
+    "name": "man juggling",
+    "skin_tone_support": true,
+  "🤹‍♀️": {
+    "name": "woman juggling",
+    "skin_tone_support": true,
+  "🧘": {
+    "name": "person in lotus position",
+    "skin_tone_support": true,
+  "🧘‍♂️": {
+    "name": "man in lotus position",
+    "skin_tone_support": true,
+  "🧘‍♀️": {
+    "name": "woman in lotus position",
+    "skin_tone_support": true,
+  "🛀": {
+    "name": "person taking bath",
+    "skin_tone_support": true,
+  "🛌": {
+    "name": "person in bed",
+    "skin_tone_support": true,
+  "🧑‍🤝‍🧑": {
+    "name": "people holding hands",
+    "skin_tone_support": true,
+  "👭": {
+    "name": "women holding hands",
+    "skin_tone_support": true,
+  "👫": {
+    "name": "woman and man holding hands",
+    "skin_tone_support": true,
+  "👬": {
+    "name": "men holding hands",
+    "skin_tone_support": true,
+  "💏": {
+    "name": "kiss",
+    "skin_tone_support": true,
+  "👩‍❤️‍💋‍👨": {
+    "name": "kiss woman, man",
+    "skin_tone_support": true,
+  "👨‍❤️‍💋‍👨": {
+    "name": "kiss man, man",
+    "skin_tone_support": true,
+  "👩‍❤️‍💋‍👩": {
+    "name": "kiss woman, woman",
+    "skin_tone_support": true,
+  "💑": {
+    "name": "couple with heart",
+    "skin_tone_support": true,
+  "👩‍❤️‍👨": {
+    "name": "couple with heart woman, man",
+    "skin_tone_support": true,
+  "👨‍❤️‍👨": {
+    "name": "couple with heart man, man",
+    "skin_tone_support": true,
+  "👩‍❤️‍👩": {
+    "name": "couple with heart woman, woman",
+    "skin_tone_support": true,
+  "👨‍👩‍👦": {
+    "name": "family man, woman, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👧": {
+    "name": "family man, woman, girl",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👧‍👦": {
+    "name": "family man, woman, girl, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👦‍👦": {
+    "name": "family man, woman, boy, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👩‍👧‍👧": {
+    "name": "family man, woman, girl, girl",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👦": {
+    "name": "family man, man, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👧": {
+    "name": "family man, man, girl",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👧‍👦": {
+    "name": "family man, man, girl, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👦‍👦": {
+    "name": "family man, man, boy, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👨‍👧‍👧": {
+    "name": "family man, man, girl, girl",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👦": {
+    "name": "family woman, woman, boy",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👧": {
+    "name": "family woman, woman, girl",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👧‍👦": {
+    "name": "family woman, woman, girl, boy",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👦‍👦": {
+    "name": "family woman, woman, boy, boy",
+    "skin_tone_support": false
+  },
+  "👩‍👩‍👧‍👧": {
+    "name": "family woman, woman, girl, girl",
+    "skin_tone_support": false
+  },
+  "👨‍👦": {
+    "name": "family man, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👦‍👦": {
+    "name": "family man, boy, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👧": {
+    "name": "family man, girl",
+    "skin_tone_support": false
+  },
+  "👨‍👧‍👦": {
+    "name": "family man, girl, boy",
+    "skin_tone_support": false
+  },
+  "👨‍👧‍👧": {
+    "name": "family man, girl, girl",
+    "skin_tone_support": false
+  },
+  "👩‍👦": {
+    "name": "family woman, boy",
+    "skin_tone_support": false
+  },
+  "👩‍👦‍👦": {
+    "name": "family woman, boy, boy",
+    "skin_tone_support": false
+  },
+  "👩‍👧": {
+    "name": "family woman, girl",
+    "skin_tone_support": false
+  },
+  "👩‍👧‍👦": {
+    "name": "family woman, girl, boy",
+    "skin_tone_support": false
+  },
+  "👩‍👧‍👧": {
+    "name": "family woman, girl, girl",
+    "skin_tone_support": false
+  },
+  "🗣️": {
+    "name": "speaking head",
+    "skin_tone_support": false
+  },
+  "👤": {
+    "name": "bust in silhouette",
+    "skin_tone_support": false
+  },
+  "👥": {
+    "name": "busts in silhouette",
+    "skin_tone_support": false
+  },
+  "🫂": {
+    "name": "people hugging",
+    "skin_tone_support": false
+  },
+  "👪": {
+    "name": "family",
+    "skin_tone_support": false
+  },
+  "🧑‍🧑‍🧒": {
+    "name": "family adult, adult, child",
+    "skin_tone_support": false
+  },
+  "🧑‍🧑‍🧒‍🧒": {
+    "name": "family adult, adult, child, child",
+    "skin_tone_support": false
+  },
+  "🧑‍🧒": {
+    "name": "family adult, child",
+    "skin_tone_support": false
+  },
+  "🧑‍🧒‍🧒": {
+    "name": "family adult, child, child",
+    "skin_tone_support": false
+  },
+  "👣": {
+    "name": "footprints",
+    "skin_tone_support": false
+  },
+  "🫆": {
+    "name": "fingerprint",
+    "skin_tone_support": false
+  },
+  "🐵": {
+    "name": "monkey face",
+    "skin_tone_support": false
+  },
+  "🐒": {
+    "name": "monkey",
+    "skin_tone_support": false
+  },
+  "🦍": {
+    "name": "gorilla",
+    "skin_tone_support": false
+  },
+  "🦧": {
+    "name": "orangutan",
+    "skin_tone_support": false
+  },
+  "🐶": {
+    "name": "dog face",
+    "skin_tone_support": false
+  },
+  "🐕": {
+    "name": "dog",
+    "skin_tone_support": false
+  },
+  "🦮": {
+    "name": "guide dog",
+    "skin_tone_support": false
+  },
+  "🐕‍🦺": {
+    "name": "service dog",
+    "skin_tone_support": false
+  },
+  "🐩": {
+    "name": "poodle",
+    "skin_tone_support": false
+  },
+  "🐺": {
+    "name": "wolf",
+    "skin_tone_support": false
+  },
+  "🦊": {
+    "name": "fox",
+    "skin_tone_support": false
+  },
+  "🦝": {
+    "name": "raccoon",
+    "skin_tone_support": false
+  },
+  "🐱": {
+    "name": "cat face",
+    "skin_tone_support": false
+  },
+  "🐈": {
+    "name": "cat",
+    "skin_tone_support": false
+  },
+  "🐈‍⬛": {
+    "name": "black cat",
+    "skin_tone_support": false
+  },
+  "🦁": {
+    "name": "lion",
+    "skin_tone_support": false
+  },
+  "🐯": {
+    "name": "tiger face",
+    "skin_tone_support": false
+  },
+  "🐅": {
+    "name": "tiger",
+    "skin_tone_support": false
+  },
+  "🐆": {
+    "name": "leopard",
+    "skin_tone_support": false
+  },
+  "🐴": {
+    "name": "horse face",
+    "skin_tone_support": false
+  },
+  "🫎": {
+    "name": "moose",
+    "skin_tone_support": false
+  },
+  "🫏": {
+    "name": "donkey",
+    "skin_tone_support": false
+  },
+  "🐎": {
+    "name": "horse",
+    "skin_tone_support": false
+  },
+  "🦄": {
+    "name": "unicorn",
+    "skin_tone_support": false
+  },
+  "🦓": {
+    "name": "zebra",
+    "skin_tone_support": false
+  },
+  "🦌": {
+    "name": "deer",
+    "skin_tone_support": false
+  },
+  "🦬": {
+    "name": "bison",
+    "skin_tone_support": false
+  },
+  "🐮": {
+    "name": "cow face",
+    "skin_tone_support": false
+  },
+  "🐂": {
+    "name": "ox",
+    "skin_tone_support": false
+  },
+  "🐃": {
+    "name": "water buffalo",
+    "skin_tone_support": false
+  },
+  "🐄": {
+    "name": "cow",
+    "skin_tone_support": false
+  },
+  "🐷": {
+    "name": "pig face",
+    "skin_tone_support": false
+  },
+  "🐖": {
+    "name": "pig",
+    "skin_tone_support": false
+  },
+  "🐗": {
+    "name": "boar",
+    "skin_tone_support": false
+  },
+  "🐽": {
+    "name": "pig nose",
+    "skin_tone_support": false
+  },
+  "🐏": {
+    "name": "ram",
+    "skin_tone_support": false
+  },
+  "🐑": {
+    "name": "ewe",
+    "skin_tone_support": false
+  },
+  "🐐": {
+    "name": "goat",
+    "skin_tone_support": false
+  },
+  "🐪": {
+    "name": "camel",
+    "skin_tone_support": false
+  },
+  "🐫": {
+    "name": "two-hump camel",
+    "skin_tone_support": false
+  },
+  "🦙": {
+    "name": "llama",
+    "skin_tone_support": false
+  },
+  "🦒": {
+    "name": "giraffe",
+    "skin_tone_support": false
+  },
+  "🐘": {
+    "name": "elephant",
+    "skin_tone_support": false
+  },
+  "🦣": {
+    "name": "mammoth",
+    "skin_tone_support": false
+  },
+  "🦏": {
+    "name": "rhinoceros",
+    "skin_tone_support": false
+  },
+  "🦛": {
+    "name": "hippopotamus",
+    "skin_tone_support": false
+  },
+  "🐭": {
+    "name": "mouse face",
+    "skin_tone_support": false
+  },
+  "🐁": {
+    "name": "mouse",
+    "skin_tone_support": false
+  },
+  "🐀": {
+    "name": "rat",
+    "skin_tone_support": false
+  },
+  "🐹": {
+    "name": "hamster",
+    "skin_tone_support": false
+  },
+  "🐰": {
+    "name": "rabbit face",
+    "skin_tone_support": false
+  },
+  "🐇": {
+    "name": "rabbit",
+    "skin_tone_support": false
+  },
+  "🐿️": {
+    "name": "chipmunk",
+    "skin_tone_support": false
+  },
+  "🦫": {
+    "name": "beaver",
+    "skin_tone_support": false
+  },
+  "🦔": {
+    "name": "hedgehog",
+    "skin_tone_support": false
+  },
+  "🦇": {
+    "name": "bat",
+    "skin_tone_support": false
+  },
+  "🐻": {
+    "name": "bear",
+    "skin_tone_support": false
+  },
+  "🐻‍❄️": {
+    "name": "polar bear",
+    "skin_tone_support": false
+  },
+  "🐨": {
+    "name": "koala",
+    "skin_tone_support": false
+  },
+  "🐼": {
+    "name": "panda",
+    "skin_tone_support": false
+  },
+  "🦥": {
+    "name": "sloth",
+    "skin_tone_support": false
+  },
+  "🦦": {
+    "name": "otter",
+    "skin_tone_support": false
+  },
+  "🦨": {
+    "name": "skunk",
+    "skin_tone_support": false
+  },
+  "🦘": {
+    "name": "kangaroo",
+    "skin_tone_support": false
+  },
+  "🦡": {
+    "name": "badger",
+    "skin_tone_support": false
+  },
+  "🐾": {
+    "name": "paw prints",
+    "skin_tone_support": false
+  },
+  "🦃": {
+    "name": "turkey",
+    "skin_tone_support": false
+  },
+  "🐔": {
+    "name": "chicken",
+    "skin_tone_support": false
+  },
+  "🐓": {
+    "name": "rooster",
+    "skin_tone_support": false
+  },
+  "🐣": {
+    "name": "hatching chick",
+    "skin_tone_support": false
+  },
+  "🐤": {
+    "name": "baby chick",
+    "skin_tone_support": false
+  },
+  "🐥": {
+    "name": "front-facing baby chick",
+    "skin_tone_support": false
+  },
+  "🐦": {
+    "name": "bird",
+    "skin_tone_support": false
+  },
+  "🐧": {
+    "name": "penguin",
+    "skin_tone_support": false
+  },
+  "🕊️": {
+    "name": "dove",
+    "skin_tone_support": false
+  },
+  "🦅": {
+    "name": "eagle",
+    "skin_tone_support": false
+  },
+  "🦆": {
+    "name": "duck",
+    "skin_tone_support": false
+  },
+  "🦢": {
+    "name": "swan",
+    "skin_tone_support": false
+  },
+  "🦉": {
+    "name": "owl",
+    "skin_tone_support": false
+  },
+  "🦤": {
+    "name": "dodo",
+    "skin_tone_support": false
+  },
+  "🪶": {
+    "name": "feather",
+    "skin_tone_support": false
+  },
+  "🦩": {
+    "name": "flamingo",
+    "skin_tone_support": false
+  },
+  "🦚": {
+    "name": "peacock",
+    "skin_tone_support": false
+  },
+  "🦜": {
+    "name": "parrot",
+    "skin_tone_support": false
+  },
+  "🪽": {
+    "name": "wing",
+    "skin_tone_support": false
+  },
+  "🐦‍⬛": {
+    "name": "black bird",
+    "skin_tone_support": false
+  },
+  "🪿": {
+    "name": "goose",
+    "skin_tone_support": false
+  },
+  "🐦‍🔥": {
+    "name": "phoenix",
+    "skin_tone_support": false
+  },
+  "🐸": {
+    "name": "frog",
+    "skin_tone_support": false
+  },
+  "🐊": {
+    "name": "crocodile",
+    "skin_tone_support": false
+  },
+  "🐢": {
+    "name": "turtle",
+    "skin_tone_support": false
+  },
+  "🦎": {
+    "name": "lizard",
+    "skin_tone_support": false
+  },
+  "🐍": {
+    "name": "snake",
+    "skin_tone_support": false
+  },
+  "🐲": {
+    "name": "dragon face",
+    "skin_tone_support": false
+  },
+  "🐉": {
+    "name": "dragon",
+    "skin_tone_support": false
+  },
+  "🦕": {
+    "name": "sauropod",
+    "skin_tone_support": false
+  },
+  "🦖": {
+    "name": "T-Rex",
+    "skin_tone_support": false
+  },
+  "🐳": {
+    "name": "spouting whale",
+    "skin_tone_support": false
+  },
+  "🐋": {
+    "name": "whale",
+    "skin_tone_support": false
+  },
+  "🐬": {
+    "name": "dolphin",
+    "skin_tone_support": false
+  },
+  "🦭": {
+    "name": "seal",
+    "skin_tone_support": false
+  },
+  "🐟": {
+    "name": "fish",
+    "skin_tone_support": false
+  },
+  "🐠": {
+    "name": "tropical fish",
+    "skin_tone_support": false
+  },
+  "🐡": {
+    "name": "blowfish",
+    "skin_tone_support": false
+  },
+  "🦈": {
+    "name": "shark",
+    "skin_tone_support": false
+  },
+  "🐙": {
+    "name": "octopus",
+    "skin_tone_support": false
+  },
+  "🐚": {
+    "name": "spiral shell",
+    "skin_tone_support": false
+  },
+  "🪸": {
+    "name": "coral",
+    "skin_tone_support": false
+  },
+  "🪼": {
+    "name": "jellyfish",
+    "skin_tone_support": false
+  },
+  "🦀": {
+    "name": "crab",
+    "skin_tone_support": false
+  },
+  "🦞": {
+    "name": "lobster",
+    "skin_tone_support": false
+  },
+  "🦐": {
+    "name": "shrimp",
+    "skin_tone_support": false
+  },
+  "🦑": {
+    "name": "squid",
+    "skin_tone_support": false
+  },
+  "🦪": {
+    "name": "oyster",
+    "skin_tone_support": false
+  },
+  "🐌": {
+    "name": "snail",
+    "skin_tone_support": false
+  },
+  "🦋": {
+    "name": "butterfly",
+    "skin_tone_support": false
+  },
+  "🐛": {
+    "name": "bug",
+    "skin_tone_support": false
+  },
+  "🐜": {
+    "name": "ant",
+    "skin_tone_support": false
+  },
+  "🐝": {
+    "name": "honeybee",
+    "skin_tone_support": false
+  },
+  "🪲": {
+    "name": "beetle",
+    "skin_tone_support": false
+  },
+  "🐞": {
+    "name": "lady beetle",
+    "skin_tone_support": false
+  },
+  "🦗": {
+    "name": "cricket",
+    "skin_tone_support": false
+  },
+  "🪳": {
+    "name": "cockroach",
+    "skin_tone_support": false
+  },
+  "🕷️": {
+    "name": "spider",
+    "skin_tone_support": false
+  },
+  "🕸️": {
+    "name": "spider web",
+    "skin_tone_support": false
+  },
+  "🦂": {
+    "name": "scorpion",
+    "skin_tone_support": false
+  },
+  "🦟": {
+    "name": "mosquito",
+    "skin_tone_support": false
+  },
+  "🪰": {
+    "name": "fly",
+    "skin_tone_support": false
+  },
+  "🪱": {
+    "name": "worm",
+    "skin_tone_support": false
+  },
+  "🦠": {
+    "name": "microbe",
+    "skin_tone_support": false
+  },
+  "💐": {
+    "name": "bouquet",
+    "skin_tone_support": false
+  },
+  "🌸": {
+    "name": "cherry blossom",
+    "skin_tone_support": false
+  },
+  "💮": {
+    "name": "white flower",
+    "skin_tone_support": false
+  },
+  "🪷": {
+    "name": "lotus",
+    "skin_tone_support": false
+  },
+  "🏵️": {
+    "name": "rosette",
+    "skin_tone_support": false
+  },
+  "🌹": {
+    "name": "rose",
+    "skin_tone_support": false
+  },
+  "🥀": {
+    "name": "wilted flower",
+    "skin_tone_support": false
+  },
+  "🌺": {
+    "name": "hibiscus",
+    "skin_tone_support": false
+  },
+  "🌻": {
+    "name": "sunflower",
+    "skin_tone_support": false
+  },
+  "🌼": {
+    "name": "blossom",
+    "skin_tone_support": false
+  },
+  "🌷": {
+    "name": "tulip",
+    "skin_tone_support": false
+  },
+  "🪻": {
+    "name": "hyacinth",
+    "skin_tone_support": false
+  },
+  "🌱": {
+    "name": "seedling",
+    "skin_tone_support": false
+  },
+  "🪴": {
+    "name": "potted plant",
+    "skin_tone_support": false
+  },
+  "🌲": {
+    "name": "evergreen tree",
+    "skin_tone_support": false
+  },
+  "🌳": {
+    "name": "deciduous tree",
+    "skin_tone_support": false
+  },
+  "🌴": {
+    "name": "palm tree",
+    "skin_tone_support": false
+  },
+  "🌵": {
+    "name": "cactus",
+    "skin_tone_support": false
+  },
+  "🌾": {
+    "name": "sheaf of rice",
+    "skin_tone_support": false
+  },
+  "🌿": {
+    "name": "herb",
+    "skin_tone_support": false
+  },
+  "☘️": {
+    "name": "shamrock",
+    "skin_tone_support": false
+  },
+  "🍀": {
+    "name": "four leaf clover",
+    "skin_tone_support": false
+  },
+  "🍁": {
+    "name": "maple leaf",
+    "skin_tone_support": false
+  },
+  "🍂": {
+    "name": "fallen leaf",
+    "skin_tone_support": false
+  },
+  "🍃": {
+    "name": "leaf fluttering in wind",
+    "skin_tone_support": false
+  },
+  "🪹": {
+    "name": "empty nest",
+    "skin_tone_support": false
+  },
+  "🪺": {
+    "name": "nest with eggs",
+    "skin_tone_support": false
+  },
+  "🍄": {
+    "name": "mushroom",
+    "skin_tone_support": false
+  },
+  "🪾": {
+    "name": "leafless tree",
+    "skin_tone_support": false
+  },
+  "🍇": {
+    "name": "grapes",
+    "skin_tone_support": false
+  },
+  "🍈": {
+    "name": "melon",
+    "skin_tone_support": false
+  },
+  "🍉": {
+    "name": "watermelon",
+    "skin_tone_support": false
+  },
+  "🍊": {
+    "name": "tangerine",
+    "skin_tone_support": false
+  },
+  "🍋": {
+    "name": "lemon",
+    "skin_tone_support": false
+  },
+  "🍋‍🟩": {
+    "name": "lime",
+    "skin_tone_support": false
+  },
+  "🍌": {
+    "name": "banana",
+    "skin_tone_support": false
+  },
+  "🍍": {
+    "name": "pineapple",
+    "skin_tone_support": false
+  },
+  "🥭": {
+    "name": "mango",
+    "skin_tone_support": false
+  },
+  "🍎": {
+    "name": "red apple",
+    "skin_tone_support": false
+  },
+  "🍏": {
+    "name": "green apple",
+    "skin_tone_support": false
+  },
+  "🍐": {
+    "name": "pear",
+    "skin_tone_support": false
+  },
+  "🍑": {
+    "name": "peach",
+    "skin_tone_support": false
+  },
+  "🍒": {
+    "name": "cherries",
+    "skin_tone_support": false
+  },
+  "🍓": {
+    "name": "strawberry",
+    "skin_tone_support": false
+  },
+  "🫐": {
+    "name": "blueberries",
+    "skin_tone_support": false
+  },
+  "🥝": {
+    "name": "kiwi fruit",
+    "skin_tone_support": false
+  },
+  "🍅": {
+    "name": "tomato",
+    "skin_tone_support": false
+  },
+  "🫒": {
+    "name": "olive",
+    "skin_tone_support": false
+  },
+  "🥥": {
+    "name": "coconut",
+    "skin_tone_support": false
+  },
+  "🥑": {
+    "name": "avocado",
+    "skin_tone_support": false
+  },
+  "🍆": {
+    "name": "eggplant",
+    "skin_tone_support": false
+  },
+  "🥔": {
+    "name": "potato",
+    "skin_tone_support": false
+  },
+  "🥕": {
+    "name": "carrot",
+    "skin_tone_support": false
+  },
+  "🌽": {
+    "name": "ear of corn",
+    "skin_tone_support": false
+  },
+  "🌶️": {
+    "name": "hot pepper",
+    "skin_tone_support": false
+  },
+  "🫑": {
+    "name": "bell pepper",
+    "skin_tone_support": false
+  },
+  "🥒": {
+    "name": "cucumber",
+    "skin_tone_support": false
+  },
+  "🥬": {
+    "name": "leafy green",
+    "skin_tone_support": false
+  },
+  "🥦": {
+    "name": "broccoli",
+    "skin_tone_support": false
+  },
+  "🧄": {
+    "name": "garlic",
+    "skin_tone_support": false
+  },
+  "🧅": {
+    "name": "onion",
+    "skin_tone_support": false
+  },
+  "🥜": {
+    "name": "peanuts",
+    "skin_tone_support": false
+  },
+  "🫘": {
+    "name": "beans",
+    "skin_tone_support": false
+  },
+  "🌰": {
+    "name": "chestnut",
+    "skin_tone_support": false
+  },
+  "🫚": {
+    "name": "ginger root",
+    "skin_tone_support": false
+  },
+  "🫛": {
+    "name": "pea pod",
+    "skin_tone_support": false
+  },
+  "🍄‍🟫": {
+    "name": "brown mushroom",
+    "skin_tone_support": false
+  },
+  "🫜": {
+    "name": "root vegetable",
+    "skin_tone_support": false
+  },
+  "🍞": {
+    "name": "bread",
+    "skin_tone_support": false
+  },
+  "🥐": {
+    "name": "croissant",
+    "skin_tone_support": false
+  },
+  "🥖": {
+    "name": "baguette bread",
+    "skin_tone_support": false
+  },
+  "🫓": {
+    "name": "flatbread",
+    "skin_tone_support": false
+  },
+  "🥨": {
+    "name": "pretzel",
+    "skin_tone_support": false
+  },
+  "🥯": {
+    "name": "bagel",
+    "skin_tone_support": false
+  },
+  "🥞": {
+    "name": "pancakes",
+    "skin_tone_support": false
+  },
+  "🧇": {
+    "name": "waffle",
+    "skin_tone_support": false
+  },
+  "🧀": {
+    "name": "cheese wedge",
+    "skin_tone_support": false
+  },
+  "🍖": {
+    "name": "meat on bone",
+    "skin_tone_support": false
+  },
+  "🍗": {
+    "name": "poultry leg",
+    "skin_tone_support": false
+  },
+  "🥩": {
+    "name": "cut of meat",
+    "skin_tone_support": false
+  },
+  "🥓": {
+    "name": "bacon",
+    "skin_tone_support": false
+  },
+  "🍔": {
+    "name": "hamburger",
+    "skin_tone_support": false
+  },
+  "🍟": {
+    "name": "french fries",
+    "skin_tone_support": false
+  },
+  "🍕": {
+    "name": "pizza",
+    "skin_tone_support": false
+  },
+  "🌭": {
+    "name": "hot dog",
+    "skin_tone_support": false
+  },
+  "🥪": {
+    "name": "sandwich",
+    "skin_tone_support": false
+  },
+  "🌮": {
+    "name": "taco",
+    "skin_tone_support": false
+  },
+  "🌯": {
+    "name": "burrito",
+    "skin_tone_support": false
+  },
+  "🫔": {
+    "name": "tamale",
+    "skin_tone_support": false
+  },
+  "🥙": {
+    "name": "stuffed flatbread",
+    "skin_tone_support": false
+  },
+  "🧆": {
+    "name": "falafel",
+    "skin_tone_support": false
+  },
+  "🥚": {
+    "name": "egg",
+    "skin_tone_support": false
+  },
+  "🍳": {
+    "name": "cooking",
+    "skin_tone_support": false
+  },
+  "🥘": {
+    "name": "shallow pan of food",
+    "skin_tone_support": false
+  },
+  "🍲": {
+    "name": "pot of food",
+    "skin_tone_support": false
+  },
+  "🫕": {
+    "name": "fondue",
+    "skin_tone_support": false
+  },
+  "🥣": {
+    "name": "bowl with spoon",
+    "skin_tone_support": false
+  },
+  "🥗": {
+    "name": "green salad",
+    "skin_tone_support": false
+  },
+  "🍿": {
+    "name": "popcorn",
+    "skin_tone_support": false
+  },
+  "🧈": {
+    "name": "butter",
+    "skin_tone_support": false
+  },
+  "🧂": {
+    "name": "salt",
+    "skin_tone_support": false
+  },
+  "🥫": {
+    "name": "canned food",
+    "skin_tone_support": false
+  },
+  "🍱": {
+    "name": "bento box",
+    "skin_tone_support": false
+  },
+  "🍘": {
+    "name": "rice cracker",
+    "skin_tone_support": false
+  },
+  "🍙": {
+    "name": "rice ball",
+    "skin_tone_support": false
+  },
+  "🍚": {
+    "name": "cooked rice",
+    "skin_tone_support": false
+  },
+  "🍛": {
+    "name": "curry rice",
+    "skin_tone_support": false
+  },
+  "🍜": {
+    "name": "steaming bowl",
+    "skin_tone_support": false
+  },
+  "🍝": {
+    "name": "spaghetti",
+    "skin_tone_support": false
+  },
+  "🍠": {
+    "name": "roasted sweet potato",
+    "skin_tone_support": false
+  },
+  "🍢": {
+    "name": "oden",
+    "skin_tone_support": false
+  },
+  "🍣": {
+    "name": "sushi",
+    "skin_tone_support": false
+  },
+  "🍤": {
+    "name": "fried shrimp",
+    "skin_tone_support": false
+  },
+  "🍥": {
+    "name": "fish cake with swirl",
+    "skin_tone_support": false
+  },
+  "🥮": {
+    "name": "moon cake",
+    "skin_tone_support": false
+  },
+  "🍡": {
+    "name": "dango",
+    "skin_tone_support": false
+  },
+  "🥟": {
+    "name": "dumpling",
+    "skin_tone_support": false
+  },
+  "🥠": {
+    "name": "fortune cookie",
+    "skin_tone_support": false
+  },
+  "🥡": {
+    "name": "takeout box",
+    "skin_tone_support": false
+  },
+  "🍦": {
+    "name": "soft ice cream",
+    "skin_tone_support": false
+  },
+  "🍧": {
+    "name": "shaved ice",
+    "skin_tone_support": false
+  },
+  "🍨": {
+    "name": "ice cream",
+    "skin_tone_support": false
+  },
+  "🍩": {
+    "name": "doughnut",
+    "skin_tone_support": false
+  },
+  "🍪": {
+    "name": "cookie",
+    "skin_tone_support": false
+  },
+  "🎂": {
+    "name": "birthday cake",
+    "skin_tone_support": false
+  },
+  "🍰": {
+    "name": "shortcake",
+    "skin_tone_support": false
+  },
+  "🧁": {
+    "name": "cupcake",
+    "skin_tone_support": false
+  },
+  "🥧": {
+    "name": "pie",
+    "skin_tone_support": false
+  },
+  "🍫": {
+    "name": "chocolate bar",
+    "skin_tone_support": false
+  },
+  "🍬": {
+    "name": "candy",
+    "skin_tone_support": false
+  },
+  "🍭": {
+    "name": "lollipop",
+    "skin_tone_support": false
+  },
+  "🍮": {
+    "name": "custard",
+    "skin_tone_support": false
+  },
+  "🍯": {
+    "name": "honey pot",
+    "skin_tone_support": false
+  },
+  "🍼": {
+    "name": "baby bottle",
+    "skin_tone_support": false
+  },
+  "🥛": {
+    "name": "glass of milk",
+    "skin_tone_support": false
+  },
+  "☕": {
+    "name": "hot beverage",
+    "skin_tone_support": false
+  },
+  "🫖": {
+    "name": "teapot",
+    "skin_tone_support": false
+  },
+  "🍵": {
+    "name": "teacup without handle",
+    "skin_tone_support": false
+  },
+  "🍶": {
+    "name": "sake",
+    "skin_tone_support": false
+  },
+  "🍾": {
+    "name": "bottle with popping cork",
+    "skin_tone_support": false
+  },
+  "🍷": {
+    "name": "wine glass",
+    "skin_tone_support": false
+  },
+  "🍸": {
+    "name": "cocktail glass",
+    "skin_tone_support": false
+  },
+  "🍹": {
+    "name": "tropical drink",
+    "skin_tone_support": false
+  },
+  "🍺": {
+    "name": "beer mug",
+    "skin_tone_support": false
+  },
+  "🍻": {
+    "name": "clinking beer mugs",
+    "skin_tone_support": false
+  },
+  "🥂": {
+    "name": "clinking glasses",
+    "skin_tone_support": false
+  },
+  "🥃": {
+    "name": "tumbler glass",
+    "skin_tone_support": false
+  },
+  "🫗": {
+    "name": "pouring liquid",
+    "skin_tone_support": false
+  },
+  "🥤": {
+    "name": "cup with straw",
+    "skin_tone_support": false
+  },
+  "🧋": {
+    "name": "bubble tea",
+    "skin_tone_support": false
+  },
+  "🧃": {
+    "name": "beverage box",
+    "skin_tone_support": false
+  },
+  "🧉": {
+    "name": "mate",
+    "skin_tone_support": false
+  },
+  "🧊": {
+    "name": "ice",
+    "skin_tone_support": false
+  },
+  "🥢": {
+    "name": "chopsticks",
+    "skin_tone_support": false
+  },
+  "🍽️": {
+    "name": "fork and knife with plate",
+    "skin_tone_support": false
+  },
+  "🍴": {
+    "name": "fork and knife",
+    "skin_tone_support": false
+  },
+  "🥄": {
+    "name": "spoon",
+    "skin_tone_support": false
+  },
+  "🔪": {
+    "name": "kitchen knife",
+    "skin_tone_support": false
+  },
+  "🫙": {
+    "name": "jar",
+    "skin_tone_support": false
+  },
+  "🏺": {
+    "name": "amphora",
+    "skin_tone_support": false
+  },
+  "🌍": {
+    "name": "globe showing Europe-Africa",
+    "skin_tone_support": false
+  },
+  "🌎": {
+    "name": "globe showing Americas",
+    "skin_tone_support": false
+  },
+  "🌏": {
+    "name": "globe showing Asia-Australia",
+    "skin_tone_support": false
+  },
+  "🌐": {
+    "name": "globe with meridians",
+    "skin_tone_support": false
+  },
+  "🗺️": {
+    "name": "world map",
+    "skin_tone_support": false
+  },
+  "🗾": {
+    "name": "map of Japan",
+    "skin_tone_support": false
+  },
+  "🧭": {
+    "name": "compass",
+    "skin_tone_support": false
+  },
+  "🏔️": {
+    "name": "snow-capped mountain",
+    "skin_tone_support": false
+  },
+  "⛰️": {
+    "name": "mountain",
+    "skin_tone_support": false
+  },
+  "🌋": {
+    "name": "volcano",
+    "skin_tone_support": false
+  },
+  "🗻": {
+    "name": "mount fuji",
+    "skin_tone_support": false
+  },
+  "🏕️": {
+    "name": "camping",
+    "skin_tone_support": false
+  },
+  "🏖️": {
+    "name": "beach with umbrella",
+    "skin_tone_support": false
+  },
+  "🏜️": {
+    "name": "desert",
+    "skin_tone_support": false
+  },
+  "🏝️": {
+    "name": "desert island",
+    "skin_tone_support": false
+  },
+  "🏞️": {
+    "name": "national park",
+    "skin_tone_support": false
+  },
+  "🏟️": {
+    "name": "stadium",
+    "skin_tone_support": false
+  },
+  "🏛️": {
+    "name": "classical building",
+    "skin_tone_support": false
+  },
+  "🏗️": {
+    "name": "building construction",
+    "skin_tone_support": false
+  },
+  "🧱": {
+    "name": "brick",
+    "skin_tone_support": false
+  },
+  "🪨": {
+    "name": "rock",
+    "skin_tone_support": false
+  },
+  "🪵": {
+    "name": "wood",
+    "skin_tone_support": false
+  },
+  "🛖": {
+    "name": "hut",
+    "skin_tone_support": false
+  },
+  "🏘️": {
+    "name": "houses",
+    "skin_tone_support": false
+  },
+  "🏚️": {
+    "name": "derelict house",
+    "skin_tone_support": false
+  },
+  "🏠": {
+    "name": "house",
+    "skin_tone_support": false
+  },
+  "🏡": {
+    "name": "house with garden",
+    "skin_tone_support": false
+  },
+  "🏢": {
+    "name": "office building",
+    "skin_tone_support": false
+  },
+  "🏣": {
+    "name": "Japanese post office",
+    "skin_tone_support": false
+  },
+  "🏤": {
+    "name": "post office",
+    "skin_tone_support": false
+  },
+  "🏥": {
+    "name": "hospital",
+    "skin_tone_support": false
+  },
+  "🏦": {
+    "name": "bank",
+    "skin_tone_support": false
+  },
+  "🏨": {
+    "name": "hotel",
+    "skin_tone_support": false
+  },
+  "🏩": {
+    "name": "love hotel",
+    "skin_tone_support": false
+  },
+  "🏪": {
+    "name": "convenience store",
+    "skin_tone_support": false
+  },
+  "🏫": {
+    "name": "school",
+    "skin_tone_support": false
+  },
+  "🏬": {
+    "name": "department store",
+    "skin_tone_support": false
+  },
+  "🏭": {
+    "name": "factory",
+    "skin_tone_support": false
+  },
+  "🏯": {
+    "name": "Japanese castle",
+    "skin_tone_support": false
+  },
+  "🏰": {
+    "name": "castle",
+    "skin_tone_support": false
+  },
+  "💒": {
+    "name": "wedding",
+    "skin_tone_support": false
+  },
+  "🗼": {
+    "name": "Tokyo tower",
+    "skin_tone_support": false
+  },
+  "🗽": {
+    "name": "Statue of Liberty",
+    "skin_tone_support": false
+  },
+  "⛪": {
+    "name": "church",
+    "skin_tone_support": false
+  },
+  "🕌": {
+    "name": "mosque",
+    "skin_tone_support": false
+  },
+  "🛕": {
+    "name": "hindu temple",
+    "skin_tone_support": false
+  },
+  "🕍": {
+    "name": "synagogue",
+    "skin_tone_support": false
+  },
+  "⛩️": {
+    "name": "shinto shrine",
+    "skin_tone_support": false
+  },
+  "🕋": {
+    "name": "kaaba",
+    "skin_tone_support": false
+  },
+  "⛲": {
+    "name": "fountain",
+    "skin_tone_support": false
+  },
+  "⛺": {
+    "name": "tent",
+    "skin_tone_support": false
+  },
+  "🌁": {
+    "name": "foggy",
+    "skin_tone_support": false
+  },
+  "🌃": {
+    "name": "night with stars",
+    "skin_tone_support": false
+  },
+  "🏙️": {
+    "name": "cityscape",
+    "skin_tone_support": false
+  },
+  "🌄": {
+    "name": "sunrise over mountains",
+    "skin_tone_support": false
+  },
+  "🌅": {
+    "name": "sunrise",
+    "skin_tone_support": false
+  },
+  "🌆": {
+    "name": "cityscape at dusk",
+    "skin_tone_support": false
+  },
+  "🌇": {
+    "name": "sunset",
+    "skin_tone_support": false
+  },
+  "🌉": {
+    "name": "bridge at night",
+    "skin_tone_support": false
+  },
+  "♨️": {
+    "name": "hot springs",
+    "skin_tone_support": false
+  },
+  "🎠": {
+    "name": "carousel horse",
+    "skin_tone_support": false
+  },
+  "🛝": {
+    "name": "playground slide",
+    "skin_tone_support": false
+  },
+  "🎡": {
+    "name": "ferris wheel",
+    "skin_tone_support": false
+  },
+  "🎢": {
+    "name": "roller coaster",
+    "skin_tone_support": false
+  },
+  "💈": {
+    "name": "barber pole",
+    "skin_tone_support": false
+  },
+  "🎪": {
+    "name": "circus tent",
+    "skin_tone_support": false
+  },
+  "🚂": {
+    "name": "locomotive",
+    "skin_tone_support": false
+  },
+  "🚃": {
+    "name": "railway car",
+    "skin_tone_support": false
+  },
+  "🚄": {
+    "name": "high-speed train",
+    "skin_tone_support": false
+  },
+  "🚅": {
+    "name": "bullet train",
+    "skin_tone_support": false
+  },
+  "🚆": {
+    "name": "train",
+    "skin_tone_support": false
+  },
+  "🚇": {
+    "name": "metro",
+    "skin_tone_support": false
+  },
+  "🚈": {
+    "name": "light rail",
+    "skin_tone_support": false
+  },
+  "🚉": {
+    "name": "station",
+    "skin_tone_support": false
+  },
+  "🚊": {
+    "name": "tram",
+    "skin_tone_support": false
+  },
+  "🚝": {
+    "name": "monorail",
+    "skin_tone_support": false
+  },
+  "🚞": {
+    "name": "mountain railway",
+    "skin_tone_support": false
+  },
+  "🚋": {
+    "name": "tram car",
+    "skin_tone_support": false
+  },
+  "🚌": {
+    "name": "bus",
+    "skin_tone_support": false
+  },
+  "🚍": {
+    "name": "oncoming bus",
+    "skin_tone_support": false
+  },
+  "🚎": {
+    "name": "trolleybus",
+    "skin_tone_support": false
+  },
+  "🚐": {
+    "name": "minibus",
+    "skin_tone_support": false
+  },
+  "🚑": {
+    "name": "ambulance",
+    "skin_tone_support": false
+  },
+  "🚒": {
+    "name": "fire engine",
+    "skin_tone_support": false
+  },
+  "🚓": {
+    "name": "police car",
+    "skin_tone_support": false
+  },
+  "🚔": {
+    "name": "oncoming police car",
+    "skin_tone_support": false
+  },
+  "🚕": {
+    "name": "taxi",
+    "skin_tone_support": false
+  },
+  "🚖": {
+    "name": "oncoming taxi",
+    "skin_tone_support": false
+  },
+  "🚗": {
+    "name": "automobile",
+    "skin_tone_support": false
+  },
+  "🚘": {
+    "name": "oncoming automobile",
+    "skin_tone_support": false
+  },
+  "🚙": {
+    "name": "sport utility vehicle",
+    "skin_tone_support": false
+  },
+  "🛻": {
+    "name": "pickup truck",
+    "skin_tone_support": false
+  },
+  "🚚": {
+    "name": "delivery truck",
+    "skin_tone_support": false
+  },
+  "🚛": {
+    "name": "articulated lorry",
+    "skin_tone_support": false
+  },
+  "🚜": {
+    "name": "tractor",
+    "skin_tone_support": false
+  },
+  "🏎️": {
+    "name": "racing car",
+    "skin_tone_support": false
+  },
+  "🏍️": {
+    "name": "motorcycle",
+    "skin_tone_support": false
+  },
+  "🛵": {
+    "name": "motor scooter",
+    "skin_tone_support": false
+  },
+  "🦽": {
+    "name": "manual wheelchair",
+    "skin_tone_support": false
+  },
+  "🦼": {
+    "name": "motorized wheelchair",
+    "skin_tone_support": false
+  },
+  "🛺": {
+    "name": "auto rickshaw",
+    "skin_tone_support": false
+  },
+  "🚲": {
+    "name": "bicycle",
+    "skin_tone_support": false
+  },
+  "🛴": {
+    "name": "kick scooter",
+    "skin_tone_support": false
+  },
+  "🛹": {
+    "name": "skateboard",
+    "skin_tone_support": false
+  },
+  "🛼": {
+    "name": "roller skate",
+    "skin_tone_support": false
+  },
+  "🚏": {
+    "name": "bus stop",
+    "skin_tone_support": false
+  },
+  "🛣️": {
+    "name": "motorway",
+    "skin_tone_support": false
+  },
+  "🛤️": {
+    "name": "railway track",
+    "skin_tone_support": false
+  },
+  "🛢️": {
+    "name": "oil drum",
+    "skin_tone_support": false
+  },
+  "⛽": {
+    "name": "fuel pump",
+    "skin_tone_support": false
+  },
+  "🛞": {
+    "name": "wheel",
+    "skin_tone_support": false
+  },
+  "🚨": {
+    "name": "police car light",
+    "skin_tone_support": false
+  },
+  "🚥": {
+    "name": "horizontal traffic light",
+    "skin_tone_support": false
+  },
+  "🚦": {
+    "name": "vertical traffic light",
+    "skin_tone_support": false
+  },
+  "🛑": {
+    "name": "stop sign",
+    "skin_tone_support": false
+  },
+  "🚧": {
+    "name": "construction",
+    "skin_tone_support": false
+  },
+  "⚓": {
+    "name": "anchor",
+    "skin_tone_support": false
+  },
+  "🛟": {
+    "name": "ring buoy",
+    "skin_tone_support": false
+  },
+  "⛵": {
+    "name": "sailboat",
+    "skin_tone_support": false
+  },
+  "🛶": {
+    "name": "canoe",
+    "skin_tone_support": false
+  },
+  "🚤": {
+    "name": "speedboat",
+    "skin_tone_support": false
+  },
+  "🛳️": {
+    "name": "passenger ship",
+    "skin_tone_support": false
+  },
+  "⛴️": {
+    "name": "ferry",
+    "skin_tone_support": false
+  },
+  "🛥️": {
+    "name": "motor boat",
+    "skin_tone_support": false
+  },
+  "🚢": {
+    "name": "ship",
+    "skin_tone_support": false
+  },
+  "✈️": {
+    "name": "airplane",
+    "skin_tone_support": false
+  },
+  "🛩️": {
+    "name": "small airplane",
+    "skin_tone_support": false
+  },
+  "🛫": {
+    "name": "airplane departure",
+    "skin_tone_support": false
+  },
+  "🛬": {
+    "name": "airplane arrival",
+    "skin_tone_support": false
+  },
+  "🪂": {
+    "name": "parachute",
+    "skin_tone_support": false
+  },
+  "💺": {
+    "name": "seat",
+    "skin_tone_support": false
+  },
+  "🚁": {
+    "name": "helicopter",
+    "skin_tone_support": false
+  },
+  "🚟": {
+    "name": "suspension railway",
+    "skin_tone_support": false
+  },
+  "🚠": {
+    "name": "mountain cableway",
+    "skin_tone_support": false
+  },
+  "🚡": {
+    "name": "aerial tramway",
+    "skin_tone_support": false
+  },
+  "🛰️": {
+    "name": "satellite",
+    "skin_tone_support": false
+  },
+  "🚀": {
+    "name": "rocket",
+    "skin_tone_support": false
+  },
+  "🛸": {
+    "name": "flying saucer",
+    "skin_tone_support": false
+  },
+  "🛎️": {
+    "name": "bellhop bell",
+    "skin_tone_support": false
+  },
+  "🧳": {
+    "name": "luggage",
+    "skin_tone_support": false
+  },
+  "⌛": {
+    "name": "hourglass done",
+    "skin_tone_support": false
+  },
+  "⏳": {
+    "name": "hourglass not done",
+    "skin_tone_support": false
+  },
+  "⌚": {
+    "name": "watch",
+    "skin_tone_support": false
+  },
+  "⏰": {
+    "name": "alarm clock",
+    "skin_tone_support": false
+  },
+  "⏱️": {
+    "name": "stopwatch",
+    "skin_tone_support": false
+  },
+  "⏲️": {
+    "name": "timer clock",
+    "skin_tone_support": false
+  },
+  "🕰️": {
+    "name": "mantelpiece clock",
+    "skin_tone_support": false
+  },
+  "🕛": {
+    "name": "twelve o’clock",
+    "skin_tone_support": false
+  },
+  "🕧": {
+    "name": "twelve-thirty",
+    "skin_tone_support": false
+  },
+  "🕐": {
+    "name": "one o’clock",
+    "skin_tone_support": false
+  },
+  "🕜": {
+    "name": "one-thirty",
+    "skin_tone_support": false
+  },
+  "🕑": {
+    "name": "two o’clock",
+    "skin_tone_support": false
+  },
+  "🕝": {
+    "name": "two-thirty",
+    "skin_tone_support": false
+  },
+  "🕒": {
+    "name": "three o’clock",
+    "skin_tone_support": false
+  },
+  "🕞": {
+    "name": "three-thirty",
+    "skin_tone_support": false
+  },
+  "🕓": {
+    "name": "four o’clock",
+    "skin_tone_support": false
+  },
+  "🕟": {
+    "name": "four-thirty",
+    "skin_tone_support": false
+  },
+  "🕔": {
+    "name": "five o’clock",
+    "skin_tone_support": false
+  },
+  "🕠": {
+    "name": "five-thirty",
+    "skin_tone_support": false
+  },
+  "🕕": {
+    "name": "six o’clock",
+    "skin_tone_support": false
+  },
+  "🕡": {
+    "name": "six-thirty",
+    "skin_tone_support": false
+  },
+  "🕖": {
+    "name": "seven o’clock",
+    "skin_tone_support": false
+  },
+  "🕢": {
+    "name": "seven-thirty",
+    "skin_tone_support": false
+  },
+  "🕗": {
+    "name": "eight o’clock",
+    "skin_tone_support": false
+  },
+  "🕣": {
+    "name": "eight-thirty",
+    "skin_tone_support": false
+  },
+  "🕘": {
+    "name": "nine o’clock",
+    "skin_tone_support": false
+  },
+  "🕤": {
+    "name": "nine-thirty",
+    "skin_tone_support": false
+  },
+  "🕙": {
+    "name": "ten o’clock",
+    "skin_tone_support": false
+  },
+  "🕥": {
+    "name": "ten-thirty",
+    "skin_tone_support": false
+  },
+  "🕚": {
+    "name": "eleven o’clock",
+    "skin_tone_support": false
+  },
+  "🕦": {
+    "name": "eleven-thirty",
+    "skin_tone_support": false
+  },
+  "🌑": {
+    "name": "new moon",
+    "skin_tone_support": false
+  },
+  "🌒": {
+    "name": "waxing crescent moon",
+    "skin_tone_support": false
+  },
+  "🌓": {
+    "name": "first quarter moon",
+    "skin_tone_support": false
+  },
+  "🌔": {
+    "name": "waxing gibbous moon",
+    "skin_tone_support": false
+  },
+  "🌕": {
+    "name": "full moon",
+    "skin_tone_support": false
+  },
+  "🌖": {
+    "name": "waning gibbous moon",
+    "skin_tone_support": false
+  },
+  "🌗": {
+    "name": "last quarter moon",
+    "skin_tone_support": false
+  },
+  "🌘": {
+    "name": "waning crescent moon",
+    "skin_tone_support": false
+  },
+  "🌙": {
+    "name": "crescent moon",
+    "skin_tone_support": false
+  },
+  "🌚": {
+    "name": "new moon face",
+    "skin_tone_support": false
+  },
+  "🌛": {
+    "name": "first quarter moon face",
+    "skin_tone_support": false
+  },
+  "🌜": {
+    "name": "last quarter moon face",
+    "skin_tone_support": false
+  },
+  "🌡️": {
+    "name": "thermometer",
+    "skin_tone_support": false
+  },
+  "☀️": {
+    "name": "sun",
+    "skin_tone_support": false
+  },
+  "🌝": {
+    "name": "full moon face",
+    "skin_tone_support": false
+  },
+  "🌞": {
+    "name": "sun with face",
+    "skin_tone_support": false
+  },
+  "🪐": {
+    "name": "ringed planet",
+    "skin_tone_support": false
+  },
+  "⭐": {
+    "name": "star",
+    "skin_tone_support": false
+  },
+  "🌟": {
+    "name": "glowing star",
+    "skin_tone_support": false
+  },
+  "🌠": {
+    "name": "shooting star",
+    "skin_tone_support": false
+  },
+  "🌌": {
+    "name": "milky way",
+    "skin_tone_support": false
+  },
+  "☁️": {
+    "name": "cloud",
+    "skin_tone_support": false
+  },
+  "⛅": {
+    "name": "sun behind cloud",
+    "skin_tone_support": false
+  },
+  "⛈️": {
+    "name": "cloud with lightning and rain",
+    "skin_tone_support": false
+  },
+  "🌤️": {
+    "name": "sun behind small cloud",
+    "skin_tone_support": false
+  },
+  "🌥️": {
+    "name": "sun behind large cloud",
+    "skin_tone_support": false
+  },
+  "🌦️": {
+    "name": "sun behind rain cloud",
+    "skin_tone_support": false
+  },
+  "🌧️": {
+    "name": "cloud with rain",
+    "skin_tone_support": false
+  },
+  "🌨️": {
+    "name": "cloud with snow",
+    "skin_tone_support": false
+  },
+  "🌩️": {
+    "name": "cloud with lightning",
+    "skin_tone_support": false
+  },
+  "🌪️": {
+    "name": "tornado",
+    "skin_tone_support": false
+  },
+  "🌫️": {
+    "name": "fog",
+    "skin_tone_support": false
+  },
+  "🌬️": {
+    "name": "wind face",
+    "skin_tone_support": false
+  },
+  "🌀": {
+    "name": "cyclone",
+    "skin_tone_support": false
+  },
+  "🌈": {
+    "name": "rainbow",
+    "skin_tone_support": false
+  },
+  "🌂": {
+    "name": "closed umbrella",
+    "skin_tone_support": false
+  },
+  "☂️": {
+    "name": "umbrella",
+    "skin_tone_support": false
+  },
+  "☔": {
+    "name": "umbrella with rain drops",
+    "skin_tone_support": false
+  },
+  "⛱️": {
+    "name": "umbrella on ground",
+    "skin_tone_support": false
+  },
+  "⚡": {
+    "name": "high voltage",
+    "skin_tone_support": false
+  },
+  "❄️": {
+    "name": "snowflake",
+    "skin_tone_support": false
+  },
+  "☃️": {
+    "name": "snowman",
+    "skin_tone_support": false
+  },
+  "⛄": {
+    "name": "snowman without snow",
+    "skin_tone_support": false
+  },
+  "☄️": {
+    "name": "comet",
+    "skin_tone_support": false
+  },
+  "🔥": {
+    "name": "fire",
+    "skin_tone_support": false
+  },
+  "💧": {
+    "name": "droplet",
+    "skin_tone_support": false
+  },
+  "🌊": {
+    "name": "water wave",
+    "skin_tone_support": false
+  },
+  "🎃": {
+    "name": "jack-o-lantern",
+    "skin_tone_support": false
+  },
+  "🎄": {
+    "name": "Christmas tree",
+    "skin_tone_support": false
+  },
+  "🎆": {
+    "name": "fireworks",
+    "skin_tone_support": false
+  },
+  "🎇": {
+    "name": "sparkler",
+    "skin_tone_support": false
+  },
+  "🧨": {
+    "name": "firecracker",
+    "skin_tone_support": false
+  },
+  "✨": {
+    "name": "sparkles",
+    "skin_tone_support": false
+  },
+  "🎈": {
+    "name": "balloon",
+    "skin_tone_support": false
+  },
+  "🎉": {
+    "name": "party popper",
+    "skin_tone_support": false
+  },
+  "🎊": {
+    "name": "confetti ball",
+    "skin_tone_support": false
+  },
+  "🎋": {
+    "name": "tanabata tree",
+    "skin_tone_support": false
+  },
+  "🎍": {
+    "name": "pine decoration",
+    "skin_tone_support": false
+  },
+  "🎎": {
+    "name": "Japanese dolls",
+    "skin_tone_support": false
+  },
+  "🎏": {
+    "name": "carp streamer",
+    "skin_tone_support": false
+  },
+  "🎐": {
+    "name": "wind chime",
+    "skin_tone_support": false
+  },
+  "🎑": {
+    "name": "moon viewing ceremony",
+    "skin_tone_support": false
+  },
+  "🧧": {
+    "name": "red envelope",
+    "skin_tone_support": false
+  },
+  "🎀": {
+    "name": "ribbon",
+    "skin_tone_support": false
+  },
+  "🎁": {
+    "name": "wrapped gift",
+    "skin_tone_support": false
+  },
+  "🎗️": {
+    "name": "reminder ribbon",
+    "skin_tone_support": false
+  },
+  "🎟️": {
+    "name": "admission tickets",
+    "skin_tone_support": false
+  },
+  "🎫": {
+    "name": "ticket",
+    "skin_tone_support": false
+  },
+  "🎖️": {
+    "name": "military medal",
+    "skin_tone_support": false
+  },
+  "🏆": {
+    "name": "trophy",
+    "skin_tone_support": false
+  },
+  "🏅": {
+    "name": "sports medal",
+    "skin_tone_support": false
+  },
+  "🥇": {
+    "name": "1st place medal",
+    "skin_tone_support": false
+  },
+  "🥈": {
+    "name": "2nd place medal",
+    "skin_tone_support": false
+  },
+  "🥉": {
+    "name": "3rd place medal",
+    "skin_tone_support": false
+  },
+  "⚽": {
+    "name": "soccer ball",
+    "skin_tone_support": false
+  },
+  "⚾": {
+    "name": "baseball",
+    "skin_tone_support": false
+  },
+  "🥎": {
+    "name": "softball",
+    "skin_tone_support": false
+  },
+  "🏀": {
+    "name": "basketball",
+    "skin_tone_support": false
+  },
+  "🏐": {
+    "name": "volleyball",
+    "skin_tone_support": false
+  },
+  "🏈": {
+    "name": "american football",
+    "skin_tone_support": false
+  },
+  "🏉": {
+    "name": "rugby football",
+    "skin_tone_support": false
+  },
+  "🎾": {
+    "name": "tennis",
+    "skin_tone_support": false
+  },
+  "🥏": {
+    "name": "flying disc",
+    "skin_tone_support": false
+  },
+  "🎳": {
+    "name": "bowling",
+    "skin_tone_support": false
+  },
+  "🏏": {
+    "name": "cricket game",
+    "skin_tone_support": false
+  },
+  "🏑": {
+    "name": "field hockey",
+    "skin_tone_support": false
+  },
+  "🏒": {
+    "name": "ice hockey",
+    "skin_tone_support": false
+  },
+  "🥍": {
+    "name": "lacrosse",
+    "skin_tone_support": false
+  },
+  "🏓": {
+    "name": "ping pong",
+    "skin_tone_support": false
+  },
+  "🏸": {
+    "name": "badminton",
+    "skin_tone_support": false
+  },
+  "🥊": {
+    "name": "boxing glove",
+    "skin_tone_support": false
+  },
+  "🥋": {
+    "name": "martial arts uniform",
+    "skin_tone_support": false
+  },
+  "🥅": {
+    "name": "goal net",
+    "skin_tone_support": false
+  },
+  "⛳": {
+    "name": "flag in hole",
+    "skin_tone_support": false
+  },
+  "⛸️": {
+    "name": "ice skate",
+    "skin_tone_support": false
+  },
+  "🎣": {
+    "name": "fishing pole",
+    "skin_tone_support": false
+  },
+  "🤿": {
+    "name": "diving mask",
+    "skin_tone_support": false
+  },
+  "🎽": {
+    "name": "running shirt",
+    "skin_tone_support": false
+  },
+  "🎿": {
+    "name": "skis",
+    "skin_tone_support": false
+  },
+  "🛷": {
+    "name": "sled",
+    "skin_tone_support": false
+  },
+  "🥌": {
+    "name": "curling stone",
+    "skin_tone_support": false
+  },
+  "🎯": {
+    "name": "bullseye",
+    "skin_tone_support": false
+  },
+  "🪀": {
+    "name": "yo-yo",
+    "skin_tone_support": false
+  },
+  "🪁": {
+    "name": "kite",
+    "skin_tone_support": false
+  },
+  "🔫": {
+    "name": "water pistol",
+    "skin_tone_support": false
+  },
+  "🎱": {
+    "name": "pool 8 ball",
+    "skin_tone_support": false
+  },
+  "🔮": {
+    "name": "crystal ball",
+    "skin_tone_support": false
+  },
+  "🪄": {
+    "name": "magic wand",
+    "skin_tone_support": false
+  },
+  "🎮": {
+    "name": "video game",
+    "skin_tone_support": false
+  },
+  "🕹️": {
+    "name": "joystick",
+    "skin_tone_support": false
+  },
+  "🎰": {
+    "name": "slot machine",
+    "skin_tone_support": false
+  },
+  "🎲": {
+    "name": "game die",
+    "skin_tone_support": false
+  },
+  "🧩": {
+    "name": "puzzle piece",
+    "skin_tone_support": false
+  },
+  "🧸": {
+    "name": "teddy bear",
+    "skin_tone_support": false
+  },
+  "🪅": {
+    "name": "piñata",
+    "skin_tone_support": false
+  },
+  "🪩": {
+    "name": "mirror ball",
+    "skin_tone_support": false
+  },
+  "🪆": {
+    "name": "nesting dolls",
+    "skin_tone_support": false
+  },
+  "♠️": {
+    "name": "spade suit",
+    "skin_tone_support": false
+  },
+  "♥️": {
+    "name": "heart suit",
+    "skin_tone_support": false
+  },
+  "♦️": {
+    "name": "diamond suit",
+    "skin_tone_support": false
+  },
+  "♣️": {
+    "name": "club suit",
+    "skin_tone_support": false
+  },
+  "♟️": {
+    "name": "chess pawn",
+    "skin_tone_support": false
+  },
+  "🃏": {
+    "name": "joker",
+    "skin_tone_support": false
+  },
+  "🀄": {
+    "name": "mahjong red dragon",
+    "skin_tone_support": false
+  },
+  "🎴": {
+    "name": "flower playing cards",
+    "skin_tone_support": false
+  },
+  "🎭": {
+    "name": "performing arts",
+    "skin_tone_support": false
+  },
+  "🖼️": {
+    "name": "framed picture",
+    "skin_tone_support": false
+  },
+  "🎨": {
+    "name": "artist palette",
+    "skin_tone_support": false
+  },
+  "🧵": {
+    "name": "thread",
+    "skin_tone_support": false
+  },
+  "🪡": {
+    "name": "sewing needle",
+    "skin_tone_support": false
+  },
+  "🧶": {
+    "name": "yarn",
+    "skin_tone_support": false
+  },
+  "🪢": {
+    "name": "knot",
+    "skin_tone_support": false
+  },
+  "👓": {
+    "name": "glasses",
+    "skin_tone_support": false
+  },
+  "🕶️": {
+    "name": "sunglasses",
+    "skin_tone_support": false
+  },
+  "🥽": {
+    "name": "goggles",
+    "skin_tone_support": false
+  },
+  "🥼": {
+    "name": "lab coat",
+    "skin_tone_support": false
+  },
+  "🦺": {
+    "name": "safety vest",
+    "skin_tone_support": false
+  },
+  "👔": {
+    "name": "necktie",
+    "skin_tone_support": false
+  },
+  "👕": {
+    "name": "t-shirt",
+    "skin_tone_support": false
+  },
+  "👖": {
+    "name": "jeans",
+    "skin_tone_support": false
+  },
+  "🧣": {
+    "name": "scarf",
+    "skin_tone_support": false
+  },
+  "🧤": {
+    "name": "gloves",
+    "skin_tone_support": false
+  },
+  "🧥": {
+    "name": "coat",
+    "skin_tone_support": false
+  },
+  "🧦": {
+    "name": "socks",
+    "skin_tone_support": false
+  },
+  "👗": {
+    "name": "dress",
+    "skin_tone_support": false
+  },
+  "👘": {
+    "name": "kimono",
+    "skin_tone_support": false
+  },
+  "🥻": {
+    "name": "sari",
+    "skin_tone_support": false
+  },
+  "🩱": {
+    "name": "one-piece swimsuit",
+    "skin_tone_support": false
+  },
+  "🩲": {
+    "name": "briefs",
+    "skin_tone_support": false
+  },
+  "🩳": {
+    "name": "shorts",
+    "skin_tone_support": false
+  },
+  "👙": {
+    "name": "bikini",
+    "skin_tone_support": false
+  },
+  "👚": {
+    "name": "woman’s clothes",
+    "skin_tone_support": false
+  },
+  "🪭": {
+    "name": "folding hand fan",
+    "skin_tone_support": false
+  },
+  "👛": {
+    "name": "purse",
+    "skin_tone_support": false
+  },
+  "👜": {
+    "name": "handbag",
+    "skin_tone_support": false
+  },
+  "👝": {
+    "name": "clutch bag",
+    "skin_tone_support": false
+  },
+  "🛍️": {
+    "name": "shopping bags",
+    "skin_tone_support": false
+  },
+  "🎒": {
+    "name": "backpack",
+    "skin_tone_support": false
+  },
+  "🩴": {
+    "name": "thong sandal",
+    "skin_tone_support": false
+  },
+  "👞": {
+    "name": "man’s shoe",
+    "skin_tone_support": false
+  },
+  "👟": {
+    "name": "running shoe",
+    "skin_tone_support": false
+  },
+  "🥾": {
+    "name": "hiking boot",
+    "skin_tone_support": false
+  },
+  "🥿": {
+    "name": "flat shoe",
+    "skin_tone_support": false
+  },
+  "👠": {
+    "name": "high-heeled shoe",
+    "skin_tone_support": false
+  },
+  "👡": {
+    "name": "woman’s sandal",
+    "skin_tone_support": false
+  },
+  "🩰": {
+    "name": "ballet shoes",
+    "skin_tone_support": false
+  },
+  "👢": {
+    "name": "woman’s boot",
+    "skin_tone_support": false
+  },
+  "🪮": {
+    "name": "hair pick",
+    "skin_tone_support": false
+  },
+  "👑": {
+    "name": "crown",
+    "skin_tone_support": false
+  },
+  "👒": {
+    "name": "woman’s hat",
+    "skin_tone_support": false
+  },
+  "🎩": {
+    "name": "top hat",
+    "skin_tone_support": false
+  },
+  "🎓": {
+    "name": "graduation cap",
+    "skin_tone_support": false
+  },
+  "🧢": {
+    "name": "billed cap",
+    "skin_tone_support": false
+  },
+  "🪖": {
+    "name": "military helmet",
+    "skin_tone_support": false
+  },
+  "⛑️": {
+    "name": "rescue worker’s helmet",
+    "skin_tone_support": false
+  },
+  "📿": {
+    "name": "prayer beads",
+    "skin_tone_support": false
+  },
+  "💄": {
+    "name": "lipstick",
+    "skin_tone_support": false
+  },
+  "💍": {
+    "name": "ring",
+    "skin_tone_support": false
+  },
+  "💎": {
+    "name": "gem stone",
+    "skin_tone_support": false
+  },
+  "🔇": {
+    "name": "muted speaker",
+    "skin_tone_support": false
+  },
+  "🔈": {
+    "name": "speaker low volume",
+    "skin_tone_support": false
+  },
+  "🔉": {
+    "name": "speaker medium volume",
+    "skin_tone_support": false
+  },
+  "🔊": {
+    "name": "speaker high volume",
+    "skin_tone_support": false
+  },
+  "📢": {
+    "name": "loudspeaker",
+    "skin_tone_support": false
+  },
+  "📣": {
+    "name": "megaphone",
+    "skin_tone_support": false
+  },
+  "📯": {
+    "name": "postal horn",
+    "skin_tone_support": false
+  },
+  "🔔": {
+    "name": "bell",
+    "skin_tone_support": false
+  },
+  "🔕": {
+    "name": "bell with slash",
+    "skin_tone_support": false
+  },
+  "🎼": {
+    "name": "musical score",
+    "skin_tone_support": false
+  },
+  "🎵": {
+    "name": "musical note",
+    "skin_tone_support": false
+  },
+  "🎶": {
+    "name": "musical notes",
+    "skin_tone_support": false
+  },
+  "🎙️": {
+    "name": "studio microphone",
+    "skin_tone_support": false
+  },
+  "🎚️": {
+    "name": "level slider",
+    "skin_tone_support": false
+  },
+  "🎛️": {
+    "name": "control knobs",
+    "skin_tone_support": false
+  },
+  "🎤": {
+    "name": "microphone",
+    "skin_tone_support": false
+  },
+  "🎧": {
+    "name": "headphone",
+    "skin_tone_support": false
+  },
+  "📻": {
+    "name": "radio",
+    "skin_tone_support": false
+  },
+  "🎷": {
+    "name": "saxophone",
+    "skin_tone_support": false
+  },
+  "🪗": {
+    "name": "accordion",
+    "skin_tone_support": false
+  },
+  "🎸": {
+    "name": "guitar",
+    "skin_tone_support": false
+  },
+  "🎹": {
+    "name": "musical keyboard",
+    "skin_tone_support": false
+  },
+  "🎺": {
+    "name": "trumpet",
+    "skin_tone_support": false
+  },
+  "🎻": {
+    "name": "violin",
+    "skin_tone_support": false
+  },
+  "🪕": {
+    "name": "banjo",
+    "skin_tone_support": false
+  },
+  "🥁": {
+    "name": "drum",
+    "skin_tone_support": false
+  },
+  "🪘": {
+    "name": "long drum",
+    "skin_tone_support": false
+  },
+  "🪇": {
+    "name": "maracas",
+    "skin_tone_support": false
+  },
+  "🪈": {
+    "name": "flute",
+    "skin_tone_support": false
+  },
+  "🪉": {
+    "name": "harp",
+    "skin_tone_support": false
+  },
+  "📱": {
+    "name": "mobile phone",
+    "skin_tone_support": false
+  },
+  "📲": {
+    "name": "mobile phone with arrow",
+    "skin_tone_support": false
+  },
+  "☎️": {
+    "name": "telephone",
+    "skin_tone_support": false
+  },
+  "📞": {
+    "name": "telephone receiver",
+    "skin_tone_support": false
+  },
+  "📟": {
+    "name": "pager",
+    "skin_tone_support": false
+  },
+  "📠": {
+    "name": "fax machine",
+    "skin_tone_support": false
+  },
+  "🔋": {
+    "name": "battery",
+    "skin_tone_support": false
+  },
+  "🪫": {
+    "name": "low battery",
+    "skin_tone_support": false
+  },
+  "🔌": {
+    "name": "electric plug",
+    "skin_tone_support": false
+  },
+  "💻": {
+    "name": "laptop",
+    "skin_tone_support": false
+  },
+  "🖥️": {
+    "name": "desktop computer",
+    "skin_tone_support": false
+  },
+  "🖨️": {
+    "name": "printer",
+    "skin_tone_support": false
+  },
+  "⌨️": {
+    "name": "keyboard",
+    "skin_tone_support": false
+  },
+  "🖱️": {
+    "name": "computer mouse",
+    "skin_tone_support": false
+  },
+  "🖲️": {
+    "name": "trackball",
+    "skin_tone_support": false
+  },
+  "💽": {
+    "name": "computer disk",
+    "skin_tone_support": false
+  },
+  "💾": {
+    "name": "floppy disk",
+    "skin_tone_support": false
+  },
+  "💿": {
+    "name": "optical disk",
+    "skin_tone_support": false
+  },
+  "📀": {
+    "name": "dvd",
+    "skin_tone_support": false
+  },
+  "🧮": {
+    "name": "abacus",
+    "skin_tone_support": false
+  },
+  "🎥": {
+    "name": "movie camera",
+    "skin_tone_support": false
+  },
+  "🎞️": {
+    "name": "film frames",
+    "skin_tone_support": false
+  },
+  "📽️": {
+    "name": "film projector",
+    "skin_tone_support": false
+  },
+  "🎬": {
+    "name": "clapper board",
+    "skin_tone_support": false
+  },
+  "📺": {
+    "name": "television",
+    "skin_tone_support": false
+  },
+  "📷": {
+    "name": "camera",
+    "skin_tone_support": false
+  },
+  "📸": {
+    "name": "camera with flash",
+    "skin_tone_support": false
+  },
+  "📹": {
+    "name": "video camera",
+    "skin_tone_support": false
+  },
+  "📼": {
+    "name": "videocassette",
+    "skin_tone_support": false
+  },
+  "🔍": {
+    "name": "magnifying glass tilted left",
+    "skin_tone_support": false
+  },
+  "🔎": {
+    "name": "magnifying glass tilted right",
+    "skin_tone_support": false
+  },
+  "🕯️": {
+    "name": "candle",
+    "skin_tone_support": false
+  },
+  "💡": {
+    "name": "light bulb",
+    "skin_tone_support": false
+  },
+  "🔦": {
+    "name": "flashlight",
+    "skin_tone_support": false
+  },
+  "🏮": {
+    "name": "red paper lantern",
+    "skin_tone_support": false
+  },
+  "🪔": {
+    "name": "diya lamp",
+    "skin_tone_support": false
+  },
+  "📔": {
+    "name": "notebook with decorative cover",
+    "skin_tone_support": false
+  },
+  "📕": {
+    "name": "closed book",
+    "skin_tone_support": false
+  },
+  "📖": {
+    "name": "open book",
+    "skin_tone_support": false
+  },
+  "📗": {
+    "name": "green book",
+    "skin_tone_support": false
+  },
+  "📘": {
+    "name": "blue book",
+    "skin_tone_support": false
+  },
+  "📙": {
+    "name": "orange book",
+    "skin_tone_support": false
+  },
+  "📚": {
+    "name": "books",
+    "skin_tone_support": false
+  },
+  "📓": {
+    "name": "notebook",
+    "skin_tone_support": false
+  },
+  "📒": {
+    "name": "ledger",
+    "skin_tone_support": false
+  },
+  "📃": {
+    "name": "page with curl",
+    "skin_tone_support": false
+  },
+  "📜": {
+    "name": "scroll",
+    "skin_tone_support": false
+  },
+  "📄": {
+    "name": "page facing up",
+    "skin_tone_support": false
+  },
+  "📰": {
+    "name": "newspaper",
+    "skin_tone_support": false
+  },
+  "🗞️": {
+    "name": "rolled-up newspaper",
+    "skin_tone_support": false
+  },
+  "📑": {
+    "name": "bookmark tabs",
+    "skin_tone_support": false
+  },
+  "🔖": {
+    "name": "bookmark",
+    "skin_tone_support": false
+  },
+  "🏷️": {
+    "name": "label",
+    "skin_tone_support": false
+  },
+  "💰": {
+    "name": "money bag",
+    "skin_tone_support": false
+  },
+  "🪙": {
+    "name": "coin",
+    "skin_tone_support": false
+  },
+  "💴": {
+    "name": "yen banknote",
+    "skin_tone_support": false
+  },
+  "💵": {
+    "name": "dollar banknote",
+    "skin_tone_support": false
+  },
+  "💶": {
+    "name": "euro banknote",
+    "skin_tone_support": false
+  },
+  "💷": {
+    "name": "pound banknote",
+    "skin_tone_support": false
+  },
+  "💸": {
+    "name": "money with wings",
+    "skin_tone_support": false
+  },
+  "💳": {
+    "name": "credit card",
+    "skin_tone_support": false
+  },
+  "🧾": {
+    "name": "receipt",
+    "skin_tone_support": false
+  },
+  "💹": {
+    "name": "chart increasing with yen",
+    "skin_tone_support": false
+  },
+  "✉️": {
+    "name": "envelope",
+    "skin_tone_support": false
+  },
+  "📧": {
+    "name": "e-mail",
+    "skin_tone_support": false
+  },
+  "📨": {
+    "name": "incoming envelope",
+    "skin_tone_support": false
+  },
+  "📩": {
+    "name": "envelope with arrow",
+    "skin_tone_support": false
+  },
+  "📤": {
+    "name": "outbox tray",
+    "skin_tone_support": false
+  },
+  "📥": {
+    "name": "inbox tray",
+    "skin_tone_support": false
+  },
+  "📦": {
+    "name": "package",
+    "skin_tone_support": false
+  },
+  "📫": {
+    "name": "closed mailbox with raised flag",
+    "skin_tone_support": false
+  },
+  "📪": {
+    "name": "closed mailbox with lowered flag",
+    "skin_tone_support": false
+  },
+  "📬": {
+    "name": "open mailbox with raised flag",
+    "skin_tone_support": false
+  },
+  "📭": {
+    "name": "open mailbox with lowered flag",
+    "skin_tone_support": false
+  },
+  "📮": {
+    "name": "postbox",
+    "skin_tone_support": false
+  },
+  "🗳️": {
+    "name": "ballot box with ballot",
+    "skin_tone_support": false
+  },
+  "✏️": {
+    "name": "pencil",
+    "skin_tone_support": false
+  },
+  "✒️": {
+    "name": "black nib",
+    "skin_tone_support": false
+  },
+  "🖋️": {
+    "name": "fountain pen",
+    "skin_tone_support": false
+  },
+  "🖊️": {
+    "name": "pen",
+    "skin_tone_support": false
+  },
+  "🖌️": {
+    "name": "paintbrush",
+    "skin_tone_support": false
+  },
+  "🖍️": {
+    "name": "crayon",
+    "skin_tone_support": false
+  },
+  "📝": {
+    "name": "memo",
+    "skin_tone_support": false
+  },
+  "💼": {
+    "name": "briefcase",
+    "skin_tone_support": false
+  },
+  "📁": {
+    "name": "file folder",
+    "skin_tone_support": false
+  },
+  "📂": {
+    "name": "open file folder",
+    "skin_tone_support": false
+  },
+  "🗂️": {
+    "name": "card index dividers",
+    "skin_tone_support": false
+  },
+  "📅": {
+    "name": "calendar",
+    "skin_tone_support": false
+  },
+  "📆": {
+    "name": "tear-off calendar",
+    "skin_tone_support": false
+  },
+  "🗒️": {
+    "name": "spiral notepad",
+    "skin_tone_support": false
+  },
+  "🗓️": {
+    "name": "spiral calendar",
+    "skin_tone_support": false
+  },
+  "📇": {
+    "name": "card index",
+    "skin_tone_support": false
+  },
+  "📈": {
+    "name": "chart increasing",
+    "skin_tone_support": false
+  },
+  "📉": {
+    "name": "chart decreasing",
+    "skin_tone_support": false
+  },
+  "📊": {
+    "name": "bar chart",
+    "skin_tone_support": false
+  },
+  "📋": {
+    "name": "clipboard",
+    "skin_tone_support": false
+  },
+  "📌": {
+    "name": "pushpin",
+    "skin_tone_support": false
+  },
+  "📍": {
+    "name": "round pushpin",
+    "skin_tone_support": false
+  },
+  "📎": {
+    "name": "paperclip",
+    "skin_tone_support": false
+  },
+  "🖇️": {
+    "name": "linked paperclips",
+    "skin_tone_support": false
+  },
+  "📏": {
+    "name": "straight ruler",
+    "skin_tone_support": false
+  },
+  "📐": {
+    "name": "triangular ruler",
+    "skin_tone_support": false
+  },
+  "✂️": {
+    "name": "scissors",
+    "skin_tone_support": false
+  },
+  "🗃️": {
+    "name": "card file box",
+    "skin_tone_support": false
+  },
+  "🗄️": {
+    "name": "file cabinet",
+    "skin_tone_support": false
+  },
+  "🗑️": {
+    "name": "wastebasket",
+    "skin_tone_support": false
+  },
+  "🔒": {
+    "name": "locked",
+    "skin_tone_support": false
+  },
+  "🔓": {
+    "name": "unlocked",
+    "skin_tone_support": false
+  },
+  "🔏": {
+    "name": "locked with pen",
+    "skin_tone_support": false
+  },
+  "🔐": {
+    "name": "locked with key",
+    "skin_tone_support": false
+  },
+  "🔑": {
+    "name": "key",
+    "skin_tone_support": false
+  },
+  "🗝️": {
+    "name": "old key",
+    "skin_tone_support": false
+  },
+  "🔨": {
+    "name": "hammer",
+    "skin_tone_support": false
+  },
+  "🪓": {
+    "name": "axe",
+    "skin_tone_support": false
+  },
+  "⛏️": {
+    "name": "pick",
+    "skin_tone_support": false
+  },
+  "⚒️": {
+    "name": "hammer and pick",
+    "skin_tone_support": false
+  },
+  "🛠️": {
+    "name": "hammer and wrench",
+    "skin_tone_support": false
+  },
+  "🗡️": {
+    "name": "dagger",
+    "skin_tone_support": false
+  },
+  "⚔️": {
+    "name": "crossed swords",
+    "skin_tone_support": false
+  },
+  "💣": {
+    "name": "bomb",
+    "skin_tone_support": false
+  },
+  "🪃": {
+    "name": "boomerang",
+    "skin_tone_support": false
+  },
+  "🏹": {
+    "name": "bow and arrow",
+    "skin_tone_support": false
+  },
+  "🛡️": {
+    "name": "shield",
+    "skin_tone_support": false
+  },
+  "🪚": {
+    "name": "carpentry saw",
+    "skin_tone_support": false
+  },
+  "🔧": {
+    "name": "wrench",
+    "skin_tone_support": false
+  },
+  "🪛": {
+    "name": "screwdriver",
+    "skin_tone_support": false
+  },
+  "🔩": {
+    "name": "nut and bolt",
+    "skin_tone_support": false
+  },
+  "⚙️": {
+    "name": "gear",
+    "skin_tone_support": false
+  },
+  "🗜️": {
+    "name": "clamp",
+    "skin_tone_support": false
+  },
+  "⚖️": {
+    "name": "balance scale",
+    "skin_tone_support": false
+  },
+  "🦯": {
+    "name": "white cane",
+    "skin_tone_support": false
+  },
+  "🔗": {
+    "name": "link",
+    "skin_tone_support": false
+  },
+  "⛓️‍💥": {
+    "name": "broken chain",
+    "skin_tone_support": false
+  },
+  "⛓️": {
+    "name": "chains",
+    "skin_tone_support": false
+  },
+  "🪝": {
+    "name": "hook",
+    "skin_tone_support": false
+  },
+  "🧰": {
+    "name": "toolbox",
+    "skin_tone_support": false
+  },
+  "🧲": {
+    "name": "magnet",
+    "skin_tone_support": false
+  },
+  "🪜": {
+    "name": "ladder",
+    "skin_tone_support": false
+  },
+  "🪏": {
+    "name": "shovel",
+    "skin_tone_support": false
+  },
+  "⚗️": {
+    "name": "alembic",
+    "skin_tone_support": false
+  },
+  "🧪": {
+    "name": "test tube",
+    "skin_tone_support": false
+  },
+  "🧫": {
+    "name": "petri dish",
+    "skin_tone_support": false
+  },
+  "🧬": {
+    "name": "dna",
+    "skin_tone_support": false
+  },
+  "🔬": {
+    "name": "microscope",
+    "skin_tone_support": false
+  },
+  "🔭": {
+    "name": "telescope",
+    "skin_tone_support": false
+  },
+  "📡": {
+    "name": "satellite antenna",
+    "skin_tone_support": false
+  },
+  "💉": {
+    "name": "syringe",
+    "skin_tone_support": false
+  },
+  "🩸": {
+    "name": "drop of blood",
+    "skin_tone_support": false
+  },
+  "💊": {
+    "name": "pill",
+    "skin_tone_support": false
+  },
+  "🩹": {
+    "name": "adhesive bandage",
+    "skin_tone_support": false
+  },
+  "🩼": {
+    "name": "crutch",
+    "skin_tone_support": false
+  },
+  "🩺": {
+    "name": "stethoscope",
+    "skin_tone_support": false
+  },
+  "🩻": {
+    "name": "x-ray",
+    "skin_tone_support": false
+  },
+  "🚪": {
+    "name": "door",
+    "skin_tone_support": false
+  },
+  "🛗": {
+    "name": "elevator",
+    "skin_tone_support": false
+  },
+  "🪞": {
+    "name": "mirror",
+    "skin_tone_support": false
+  },
+  "🪟": {
+    "name": "window",
+    "skin_tone_support": false
+  },
+  "🛏️": {
+    "name": "bed",
+    "skin_tone_support": false
+  },
+  "🛋️": {
+    "name": "couch and lamp",
+    "skin_tone_support": false
+  },
+  "🪑": {
+    "name": "chair",
+    "skin_tone_support": false
+  },
+  "🚽": {
+    "name": "toilet",
+    "skin_tone_support": false
+  },
+  "🪠": {
+    "name": "plunger",
+    "skin_tone_support": false
+  },
+  "🚿": {
+    "name": "shower",
+    "skin_tone_support": false
+  },
+  "🛁": {
+    "name": "bathtub",
+    "skin_tone_support": false
+  },
+  "🪤": {
+    "name": "mouse trap",
+    "skin_tone_support": false
+  },
+  "🪒": {
+    "name": "razor",
+    "skin_tone_support": false
+  },
+  "🧴": {
+    "name": "lotion bottle",
+    "skin_tone_support": false
+  },
+  "🧷": {
+    "name": "safety pin",
+    "skin_tone_support": false
+  },
+  "🧹": {
+    "name": "broom",
+    "skin_tone_support": false
+  },
+  "🧺": {
+    "name": "basket",
+    "skin_tone_support": false
+  },
+  "🧻": {
+    "name": "roll of paper",
+    "skin_tone_support": false
+  },
+  "🪣": {
+    "name": "bucket",
+    "skin_tone_support": false
+  },
+  "🧼": {
+    "name": "soap",
+    "skin_tone_support": false
+  },
+  "🫧": {
+    "name": "bubbles",
+    "skin_tone_support": false
+  },
+  "🪥": {
+    "name": "toothbrush",
+    "skin_tone_support": false
+  },
+  "🧽": {
+    "name": "sponge",
+    "skin_tone_support": false
+  },
+  "🧯": {
+    "name": "fire extinguisher",
+    "skin_tone_support": false
+  },
+  "🛒": {
+    "name": "shopping cart",
+    "skin_tone_support": false
+  },
+  "🚬": {
+    "name": "cigarette",
+    "skin_tone_support": false
+  },
+  "⚰️": {
+    "name": "coffin",
+    "skin_tone_support": false
+  },
+  "🪦": {
+    "name": "headstone",
+    "skin_tone_support": false
+  },
+  "⚱️": {
+    "name": "funeral urn",
+    "skin_tone_support": false
+  },
+  "🧿": {
+    "name": "nazar amulet",
+    "skin_tone_support": false
+  },
+  "🪬": {
+    "name": "hamsa",
+    "skin_tone_support": false
+  },
+  "🗿": {
+    "name": "moai",
+    "skin_tone_support": false
+  },
+  "🪧": {
+    "name": "placard",
+    "skin_tone_support": false
+  },
+  "🪪": {
+    "name": "identification card",
+    "skin_tone_support": false
+  },
+  "🏧": {
+    "name": "ATM sign",
+    "skin_tone_support": false
+  },
+  "🚮": {
+    "name": "litter in bin sign",
+    "skin_tone_support": false
+  },
+  "🚰": {
+    "name": "potable water",
+    "skin_tone_support": false
+  },
+  "♿": {
+    "name": "wheelchair symbol",
+    "skin_tone_support": false
+  },
+  "🚹": {
+    "name": "men’s room",
+    "skin_tone_support": false
+  },
+  "🚺": {
+    "name": "women’s room",
+    "skin_tone_support": false
+  },
+  "🚻": {
+    "name": "restroom",
+    "skin_tone_support": false
+  },
+  "🚼": {
+    "name": "baby symbol",
+    "skin_tone_support": false
+  },
+  "🚾": {
+    "name": "water closet",
+    "skin_tone_support": false
+  },
+  "🛂": {
+    "name": "passport control",
+    "skin_tone_support": false
+  },
+  "🛃": {
+    "name": "customs",
+    "skin_tone_support": false
+  },
+  "🛄": {
+    "name": "baggage claim",
+    "skin_tone_support": false
+  },
+  "🛅": {
+    "name": "left luggage",
+    "skin_tone_support": false
+  },
+  "⚠️": {
+    "name": "warning",
+    "skin_tone_support": false
+  },
+  "🚸": {
+    "name": "children crossing",
+    "skin_tone_support": false
+  },
+  "⛔": {
+    "name": "no entry",
+    "skin_tone_support": false
+  },
+  "🚫": {
+    "name": "prohibited",
+    "skin_tone_support": false
+  },
+  "🚳": {
+    "name": "no bicycles",
+    "skin_tone_support": false
+  },
+  "🚭": {
+    "name": "no smoking",
+    "skin_tone_support": false
+  },
+  "🚯": {
+    "name": "no littering",
+    "skin_tone_support": false
+  },
+  "🚱": {
+    "name": "non-potable water",
+    "skin_tone_support": false
+  },
+  "🚷": {
+    "name": "no pedestrians",
+    "skin_tone_support": false
+  },
+  "📵": {
+    "name": "no mobile phones",
+    "skin_tone_support": false
+  },
+  "🔞": {
+    "name": "no one under eighteen",
+    "skin_tone_support": false
+  },
+  "☢️": {
+    "name": "radioactive",
+    "skin_tone_support": false
+  },
+  "☣️": {
+    "name": "biohazard",
+    "skin_tone_support": false
+  },
+  "⬆️": {
+    "name": "up arrow",
+    "skin_tone_support": false
+  },
+  "↗️": {
+    "name": "up-right arrow",
+    "skin_tone_support": false
+  },
+  "➡️": {
+    "name": "right arrow",
+    "skin_tone_support": false
+  },
+  "↘️": {
+    "name": "down-right arrow",
+    "skin_tone_support": false
+  },
+  "⬇️": {
+    "name": "down arrow",
+    "skin_tone_support": false
+  },
+  "↙️": {
+    "name": "down-left arrow",
+    "skin_tone_support": false
+  },
+  "⬅️": {
+    "name": "left arrow",
+    "skin_tone_support": false
+  },
+  "↖️": {
+    "name": "up-left arrow",
+    "skin_tone_support": false
+  },
+  "↕️": {
+    "name": "up-down arrow",
+    "skin_tone_support": false
+  },
+  "↔️": {
+    "name": "left-right arrow",
+    "skin_tone_support": false
+  },
+  "↩️": {
+    "name": "right arrow curving left",
+    "skin_tone_support": false
+  },
+  "↪️": {
+    "name": "left arrow curving right",
+    "skin_tone_support": false
+  },
+  "⤴️": {
+    "name": "right arrow curving up",
+    "skin_tone_support": false
+  },
+  "⤵️": {
+    "name": "right arrow curving down",
+    "skin_tone_support": false
+  },
+  "🔃": {
+    "name": "clockwise vertical arrows",
+    "skin_tone_support": false
+  },
+  "🔄": {
+    "name": "counterclockwise arrows button",
+    "skin_tone_support": false
+  },
+  "🔙": {
+    "name": "BACK arrow",
+    "skin_tone_support": false
+  },
+  "🔚": {
+    "name": "END arrow",
+    "skin_tone_support": false
+  },
+  "🔛": {
+    "name": "ON! arrow",
+    "skin_tone_support": false
+  },
+  "🔜": {
+    "name": "SOON arrow",
+    "skin_tone_support": false
+  },
+  "🔝": {
+    "name": "TOP arrow",
+    "skin_tone_support": false
+  },
+  "🛐": {
+    "name": "place of worship",
+    "skin_tone_support": false
+  },
+  "⚛️": {
+    "name": "atom symbol",
+    "skin_tone_support": false
+  },
+  "🕉️": {
+    "name": "om",
+    "skin_tone_support": false
+  },
+  "✡️": {
+    "name": "star of David",
+    "skin_tone_support": false
+  },
+  "☸️": {
+    "name": "wheel of dharma",
+    "skin_tone_support": false
+  },
+  "☯️": {
+    "name": "yin yang",
+    "skin_tone_support": false
+  },
+  "✝️": {
+    "name": "latin cross",
+    "skin_tone_support": false
+  },
+  "☦️": {
+    "name": "orthodox cross",
+    "skin_tone_support": false
+  },
+  "☪️": {
+    "name": "star and crescent",
+    "skin_tone_support": false
+  },
+  "☮️": {
+    "name": "peace symbol",
+    "skin_tone_support": false
+  },
+  "🕎": {
+    "name": "menorah",
+    "skin_tone_support": false
+  },
+  "🔯": {
+    "name": "dotted six-pointed star",
+    "skin_tone_support": false
+  },
+  "🪯": {
+    "name": "khanda",
+    "skin_tone_support": false
+  },
+  "♈": {
+    "name": "Aries",
+    "skin_tone_support": false
+  },
+  "♉": {
+    "name": "Taurus",
+    "skin_tone_support": false
+  },
+  "♊": {
+    "name": "Gemini",
+    "skin_tone_support": false
+  },
+  "♋": {
+    "name": "Cancer",
+    "skin_tone_support": false
+  },
+  "♌": {
+    "name": "Leo",
+    "skin_tone_support": false
+  },
+  "♍": {
+    "name": "Virgo",
+    "skin_tone_support": false
+  },
+  "♎": {
+    "name": "Libra",
+    "skin_tone_support": false
+  },
+  "♏": {
+    "name": "Scorpio",
+    "skin_tone_support": false
+  },
+  "♐": {
+    "name": "Sagittarius",
+    "skin_tone_support": false
+  },
+  "♑": {
+    "name": "Capricorn",
+    "skin_tone_support": false
+  },
+  "♒": {
+    "name": "Aquarius",
+    "skin_tone_support": false
+  },
+  "♓": {
+    "name": "Pisces",
+    "skin_tone_support": false
+  },
+  "⛎": {
+    "name": "Ophiuchus",
+    "skin_tone_support": false
+  },
+  "🔀": {
+    "name": "shuffle tracks button",
+    "skin_tone_support": false
+  },
+  "🔁": {
+    "name": "repeat button",
+    "skin_tone_support": false
+  },
+  "🔂": {
+    "name": "repeat single button",
+    "skin_tone_support": false
+  },
+  "▶️": {
+    "name": "play button",
+    "skin_tone_support": false
+  },
+  "⏩": {
+    "name": "fast-forward button",
+    "skin_tone_support": false
+  },
+  "⏭️": {
+    "name": "next track button",
+    "skin_tone_support": false
+  },
+  "⏯️": {
+    "name": "play or pause button",
+    "skin_tone_support": false
+  },
+  "◀️": {
+    "name": "reverse button",
+    "skin_tone_support": false
+  },
+  "⏪": {
+    "name": "fast reverse button",
+    "skin_tone_support": false
+  },
+  "⏮️": {
+    "name": "last track button",
+    "skin_tone_support": false
+  },
+  "🔼": {
+    "name": "upwards button",
+    "skin_tone_support": false
+  },
+  "⏫": {
+    "name": "fast up button",
+    "skin_tone_support": false
+  },
+  "🔽": {
+    "name": "downwards button",
+    "skin_tone_support": false
+  },
+  "⏬": {
+    "name": "fast down button",
+    "skin_tone_support": false
+  },
+  "⏸️": {
+    "name": "pause button",
+    "skin_tone_support": false
+  },
+  "⏹️": {
+    "name": "stop button",
+    "skin_tone_support": false
+  },
+  "⏺️": {
+    "name": "record button",
+    "skin_tone_support": false
+  },
+  "⏏️": {
+    "name": "eject button",
+    "skin_tone_support": false
+  },
+  "🎦": {
+    "name": "cinema",
+    "skin_tone_support": false
+  },
+  "🔅": {
+    "name": "dim button",
+    "skin_tone_support": false
+  },
+  "🔆": {
+    "name": "bright button",
+    "skin_tone_support": false
+  },
+  "📶": {
+    "name": "antenna bars",
+    "skin_tone_support": false
+  },
+  "🛜": {
+    "name": "wireless",
+    "skin_tone_support": false
+  },
+  "📳": {
+    "name": "vibration mode",
+    "skin_tone_support": false
+  },
+  "📴": {
+    "name": "mobile phone off",
+    "skin_tone_support": false
+  },
+  "♀️": {
+    "name": "female sign",
+    "skin_tone_support": false
+  },
+  "♂️": {
+    "name": "male sign",
+    "skin_tone_support": false
+  },
+  "⚧️": {
+    "name": "transgender symbol",
+    "skin_tone_support": false
+  },
+  "✖️": {
+    "name": "multiply",
+    "skin_tone_support": false
+  },
+  "➕": {
+    "name": "plus",
+    "skin_tone_support": false
+  },
+  "➖": {
+    "name": "minus",
+    "skin_tone_support": false
+  },
+  "➗": {
+    "name": "divide",
+    "skin_tone_support": false
+  },
+  "🟰": {
+    "name": "heavy equals sign",
+    "skin_tone_support": false
+  },
+  "♾️": {
+    "name": "infinity",
+    "skin_tone_support": false
+  },
+  "‼️": {
+    "name": "double exclamation mark",
+    "skin_tone_support": false
+  },
+  "⁉️": {
+    "name": "exclamation question mark",
+    "skin_tone_support": false
+  },
+  "❓": {
+    "name": "red question mark",
+    "skin_tone_support": false
+  },
+  "❔": {
+    "name": "white question mark",
+    "skin_tone_support": false
+  },
+  "❕": {
+    "name": "white exclamation mark",
+    "skin_tone_support": false
+  },
+  "❗": {
+    "name": "red exclamation mark",
+    "skin_tone_support": false
+  },
+  "〰️": {
+    "name": "wavy dash",
+    "skin_tone_support": false
+  },
+  "💱": {
+    "name": "currency exchange",
+    "skin_tone_support": false
+  },
+  "💲": {
+    "name": "heavy dollar sign",
+    "skin_tone_support": false
+  },
+  "⚕️": {
+    "name": "medical symbol",
+    "skin_tone_support": false
+  },
+  "♻️": {
+    "name": "recycling symbol",
+    "skin_tone_support": false
+  },
+  "⚜️": {
+    "name": "fleur-de-lis",
+    "skin_tone_support": false
+  },
+  "🔱": {
+    "name": "trident emblem",
+    "skin_tone_support": false
+  },
+  "📛": {
+    "name": "name badge",
+    "skin_tone_support": false
+  },
+  "🔰": {
+    "name": "Japanese symbol for beginner",
+    "skin_tone_support": false
+  },
+  "⭕": {
+    "name": "hollow red circle",
+    "skin_tone_support": false
+  },
+  "✅": {
+    "name": "check mark button",
+    "skin_tone_support": false
+  },
+  "☑️": {
+    "name": "check box with check",
+    "skin_tone_support": false
+  },
+  "✔️": {
+    "name": "check mark",
+    "skin_tone_support": false
+  },
+  "❌": {
+    "name": "cross mark",
+    "skin_tone_support": false
+  },
+  "❎": {
+    "name": "cross mark button",
+    "skin_tone_support": false
+  },
+  "➰": {
+    "name": "curly loop",
+    "skin_tone_support": false
+  },
+  "➿": {
+    "name": "double curly loop",
+    "skin_tone_support": false
+  },
+  "〽️": {
+    "name": "part alternation mark",
+    "skin_tone_support": false
+  },
+  "✳️": {
+    "name": "eight-spoked asterisk",
+    "skin_tone_support": false
+  },
+  "✴️": {
+    "name": "eight-pointed star",
+    "skin_tone_support": false
+  },
+  "❇️": {
+    "name": "sparkle",
+    "skin_tone_support": false
+  },
+  "©️": {
+    "name": "copyright",
+    "skin_tone_support": false
+  },
+  "®️": {
+    "name": "registered",
+    "skin_tone_support": false
+  },
+  "™️": {
+    "name": "trade mark",
+    "skin_tone_support": false
+  },
+  "🫟": {
+    "name": "splatter",
+    "skin_tone_support": false
+  },
+  "#️⃣": {
+    "name": "keycap #",
+    "skin_tone_support": false
+  },
+  "*️⃣": {
+    "name": "keycap *",
+    "skin_tone_support": false
+  },
+  "0️⃣": {
+    "name": "keycap 0",
+    "skin_tone_support": false
+  },
+  "1️⃣": {
+    "name": "keycap 1",
+    "skin_tone_support": false
+  },
+  "2️⃣": {
+    "name": "keycap 2",
+    "skin_tone_support": false
+  },
+  "3️⃣": {
+    "name": "keycap 3",
+    "skin_tone_support": false
+  },
+  "4️⃣": {
+    "name": "keycap 4",
+    "skin_tone_support": false
+  },
+  "5️⃣": {
+    "name": "keycap 5",
+    "skin_tone_support": false
+  },
+  "6️⃣": {
+    "name": "keycap 6",
+    "skin_tone_support": false
+  },
+  "7️⃣": {
+    "name": "keycap 7",
+    "skin_tone_support": false
+  },
+  "8️⃣": {
+    "name": "keycap 8",
+    "skin_tone_support": false
+  },
+  "9️⃣": {
+    "name": "keycap 9",
+    "skin_tone_support": false
+  },
+  "🔟": {
+    "name": "keycap 10",
+    "skin_tone_support": false
+  },
+  "🔠": {
+    "name": "input latin uppercase",
+    "skin_tone_support": false
+  },
+  "🔡": {
+    "name": "input latin lowercase",
+    "skin_tone_support": false
+  },
+  "🔢": {
+    "name": "input numbers",
+    "skin_tone_support": false
+  },
+  "🔣": {
+    "name": "input symbols",
+    "skin_tone_support": false
+  },
+  "🔤": {
+    "name": "input latin letters",
+    "skin_tone_support": false
+  },
+  "🅰️": {
+    "name": "A button (blood type)",
+    "skin_tone_support": false
+  },
+  "🆎": {
+    "name": "AB button (blood type)",
+    "skin_tone_support": false
+  },
+  "🅱️": {
+    "name": "B button (blood type)",
+    "skin_tone_support": false
+  },
+  "🆑": {
+    "name": "CL button",
+    "skin_tone_support": false
+  },
+  "🆒": {
+    "name": "COOL button",
+    "skin_tone_support": false
+  },
+  "🆓": {
+    "name": "FREE button",
+    "skin_tone_support": false
+  },
+  "ℹ️": {
+    "name": "information",
+    "skin_tone_support": false
+  },
+  "🆔": {
+    "name": "ID button",
+    "skin_tone_support": false
+  },
+  "Ⓜ️": {
+    "name": "circled M",
+    "skin_tone_support": false
+  },
+  "🆕": {
+    "name": "NEW button",
+    "skin_tone_support": false
+  },
+  "🆖": {
+    "name": "NG button",
+    "skin_tone_support": false
+  },
+  "🅾️": {
+    "name": "O button (blood type)",
+    "skin_tone_support": false
+  },
+  "🆗": {
+    "name": "OK button",
+    "skin_tone_support": false
+  },
+  "🅿️": {
+    "name": "P button",
+    "skin_tone_support": false
+  },
+  "🆘": {
+    "name": "SOS button",
+    "skin_tone_support": false
+  },
+  "🆙": {
+    "name": "UP! button",
+    "skin_tone_support": false
+  },
+  "🆚": {
+    "name": "VS button",
+    "skin_tone_support": false
+  },
+  "🈁": {
+    "name": "Japanese “here” button",
+    "skin_tone_support": false
+  },
+  "🈂️": {
+    "name": "Japanese “service charge” button",
+    "skin_tone_support": false
+  },
+  "🈷️": {
+    "name": "Japanese “monthly amount” button",
+    "skin_tone_support": false
+  },
+  "🈶": {
+    "name": "Japanese “not free of charge” button",
+    "skin_tone_support": false
+  },
+  "🈯": {
+    "name": "Japanese “reserved” button",
+    "skin_tone_support": false
+  },
+  "🉐": {
+    "name": "Japanese “bargain” button",
+    "skin_tone_support": false
+  },
+  "🈹": {
+    "name": "Japanese “discount” button",
+    "skin_tone_support": false
+  },
+  "🈚": {
+    "name": "Japanese “free of charge” button",
+    "skin_tone_support": false
+  },
+  "🈲": {
+    "name": "Japanese “prohibited” button",
+    "skin_tone_support": false
+  },
+  "🉑": {
+    "name": "Japanese “acceptable” button",
+    "skin_tone_support": false
+  },
+  "🈸": {
+    "name": "Japanese “application” button",
+    "skin_tone_support": false
+  },
+  "🈴": {
+    "name": "Japanese “passing grade” button",
+    "skin_tone_support": false
+  },
+  "🈳": {
+    "name": "Japanese “vacancy” button",
+    "skin_tone_support": false
+  },
+  "㊗️": {
+    "name": "Japanese “congratulations” button",
+    "skin_tone_support": false
+  },
+  "㊙️": {
+    "name": "Japanese “secret” button",
+    "skin_tone_support": false
+  },
+  "🈺": {
+    "name": "Japanese “open for business” button",
+    "skin_tone_support": false
+  },
+  "🈵": {
+    "name": "Japanese “no vacancy” button",
+    "skin_tone_support": false
+  },
+  "🔴": {
+    "name": "red circle",
+    "skin_tone_support": false
+  },
+  "🟠": {
+    "name": "orange circle",
+    "skin_tone_support": false
+  },
+  "🟡": {
+    "name": "yellow circle",
+    "skin_tone_support": false
+  },
+  "🟢": {
+    "name": "green circle",
+    "skin_tone_support": false
+  },
+  "🔵": {
+    "name": "blue circle",
+    "skin_tone_support": false
+  },
+  "🟣": {
+    "name": "purple circle",
+    "skin_tone_support": false
+  },
+  "🟤": {
+    "name": "brown circle",
+    "skin_tone_support": false
+  },
+  "⚫": {
+    "name": "black circle",
+    "skin_tone_support": false
+  },
+  "⚪": {
+    "name": "white circle",
+    "skin_tone_support": false
+  },
+  "🟥": {
+    "name": "red square",
+    "skin_tone_support": false
+  },
+  "🟧": {
+    "name": "orange square",
+    "skin_tone_support": false
+  },
+  "🟨": {
+    "name": "yellow square",
+    "skin_tone_support": false
+  },
+  "🟩": {
+    "name": "green square",
+    "skin_tone_support": false
+  },
+  "🟦": {
+    "name": "blue square",
+    "skin_tone_support": false
+  },
+  "🟪": {
+    "name": "purple square",
+    "skin_tone_support": false
+  },
+  "🟫": {
+    "name": "brown square",
+    "skin_tone_support": false
+  },
+  "⬛": {
+    "name": "black large square",
+    "skin_tone_support": false
+  },
+  "⬜": {
+    "name": "white large square",
+    "skin_tone_support": false
+  },
+  "◼️": {
+    "name": "black medium square",
+    "skin_tone_support": false
+  },
+  "◻️": {
+    "name": "white medium square",
+    "skin_tone_support": false
+  },
+  "◾": {
+    "name": "black medium-small square",
+    "skin_tone_support": false
+  },
+  "◽": {
+    "name": "white medium-small square",
+    "skin_tone_support": false
+  },
+  "▪️": {
+    "name": "black small square",
+    "skin_tone_support": false
+  },
+  "▫️": {
+    "name": "white small square",
+    "skin_tone_support": false
+  },
+  "🔶": {
+    "name": "large orange diamond",
+    "skin_tone_support": false
+  },
+  "🔷": {
+    "name": "large blue diamond",
+    "skin_tone_support": false
+  },
+  "🔸": {
+    "name": "small orange diamond",
+    "skin_tone_support": false
+  },
+  "🔹": {
+    "name": "small blue diamond",
+    "skin_tone_support": false
+  },
+  "🔺": {
+    "name": "red triangle pointed up",
+    "skin_tone_support": false
+  },
+  "🔻": {
+    "name": "red triangle pointed down",
+    "skin_tone_support": false
+  },
+  "💠": {
+    "name": "diamond with a dot",
+    "skin_tone_support": false
+  },
+  "🔘": {
+    "name": "radio button",
+    "skin_tone_support": false
+  },
+  "🔳": {
+    "name": "white square button",
+    "skin_tone_support": false
+  },
+  "🔲": {
+    "name": "black square button",
+    "skin_tone_support": false
+  },
+  "🏁": {
+    "name": "chequered flag",
+    "skin_tone_support": false
+  },
+  "🚩": {
+    "name": "triangular flag",
+    "skin_tone_support": false
+  },
+  "🎌": {
+    "name": "crossed flags",
+    "skin_tone_support": false
+  },
+  "🏴": {
+    "name": "black flag",
+    "skin_tone_support": false
+  },
+  "🏳️": {
+    "name": "white flag",
+    "skin_tone_support": false
+  },
+  "🏳️‍🌈": {
+    "name": "rainbow flag",
+    "skin_tone_support": false
+  },
+  "🏳️‍⚧️": {
+    "name": "transgender flag",
+    "skin_tone_support": false
+  },
+  "🏴‍☠️": {
+    "name": "pirate flag",
+    "skin_tone_support": false
+  },
+  "🇦🇨": {
+    "name": "flag Ascension Island",
+    "skin_tone_support": false
+  },
+  "🇦🇩": {
+    "name": "flag Andorra",
+    "skin_tone_support": false
+  },
+  "🇦🇪": {
+    "name": "flag United Arab Emirates",
+    "skin_tone_support": false
+  },
+  "🇦🇫": {
+    "name": "flag Afghanistan",
+    "skin_tone_support": false
+  },
+  "🇦🇬": {
+    "name": "flag Antigua & Barbuda",
+    "skin_tone_support": false
+  },
+  "🇦🇮": {
+    "name": "flag Anguilla",
+    "skin_tone_support": false
+  },
+  "🇦🇱": {
+    "name": "flag Albania",
+    "skin_tone_support": false
+  },
+  "🇦🇲": {
+    "name": "flag Armenia",
+    "skin_tone_support": false
+  },
+  "🇦🇴": {
+    "name": "flag Angola",
+    "skin_tone_support": false
+  },
+  "🇦🇶": {
+    "name": "flag Antarctica",
+    "skin_tone_support": false
+  },
+  "🇦🇷": {
+    "name": "flag Argentina",
+    "skin_tone_support": false
+  },
+  "🇦🇸": {
+    "name": "flag American Samoa",
+    "skin_tone_support": false
+  },
+  "🇦🇹": {
+    "name": "flag Austria",
+    "skin_tone_support": false
+  },
+  "🇦🇺": {
+    "name": "flag Australia",
+    "skin_tone_support": false
+  },
+  "🇦🇼": {
+    "name": "flag Aruba",
+    "skin_tone_support": false
+  },
+  "🇦🇽": {
+    "name": "flag Åland Islands",
+    "skin_tone_support": false
+  },
+  "🇦🇿": {
+    "name": "flag Azerbaijan",
+    "skin_tone_support": false
+  },
+  "🇧🇦": {
+    "name": "flag Bosnia & Herzegovina",
+    "skin_tone_support": false
+  },
+  "🇧🇧": {
+    "name": "flag Barbados",
+    "skin_tone_support": false
+  },
+  "🇧🇩": {
+    "name": "flag Bangladesh",
+    "skin_tone_support": false
+  },
+  "🇧🇪": {
+    "name": "flag Belgium",
+    "skin_tone_support": false
+  },
+  "🇧🇫": {
+    "name": "flag Burkina Faso",
+    "skin_tone_support": false
+  },
+  "🇧🇬": {
+    "name": "flag Bulgaria",
+    "skin_tone_support": false
+  },
+  "🇧🇭": {
+    "name": "flag Bahrain",
+    "skin_tone_support": false
+  },
+  "🇧🇮": {
+    "name": "flag Burundi",
+    "skin_tone_support": false
+  },
+  "🇧🇯": {
+    "name": "flag Benin",
+    "skin_tone_support": false
+  },
+  "🇧🇱": {
+    "name": "flag St. Barthélemy",
+    "skin_tone_support": false
+  },
+  "🇧🇲": {
+    "name": "flag Bermuda",
+    "skin_tone_support": false
+  },
+  "🇧🇳": {
+    "name": "flag Brunei",
+    "skin_tone_support": false
+  },
+  "🇧🇴": {
+    "name": "flag Bolivia",
+    "skin_tone_support": false
+  },
+  "🇧🇶": {
+    "name": "flag Caribbean Netherlands",
+    "skin_tone_support": false
+  },
+  "🇧🇷": {
+    "name": "flag Brazil",
+    "skin_tone_support": false
+  },
+  "🇧🇸": {
+    "name": "flag Bahamas",
+    "skin_tone_support": false
+  },
+  "🇧🇹": {
+    "name": "flag Bhutan",
+    "skin_tone_support": false
+  },
+  "🇧🇻": {
+    "name": "flag Bouvet Island",
+    "skin_tone_support": false
+  },
+  "🇧🇼": {
+    "name": "flag Botswana",
+    "skin_tone_support": false
+  },
+  "🇧🇾": {
+    "name": "flag Belarus",
+    "skin_tone_support": false
+  },
+  "🇧🇿": {
+    "name": "flag Belize",
+    "skin_tone_support": false
+  },
+  "🇨🇦": {
+    "name": "flag Canada",
+    "skin_tone_support": false
+  },
+  "🇨🇨": {
+    "name": "flag Cocos (Keeling) Islands",
+    "skin_tone_support": false
+  },
+  "🇨🇩": {
+    "name": "flag Congo - Kinshasa",
+    "skin_tone_support": false
+  },
+  "🇨🇫": {
+    "name": "flag Central African Republic",
+    "skin_tone_support": false
+  },
+  "🇨🇬": {
+    "name": "flag Congo - Brazzaville",
+    "skin_tone_support": false
+  },
+  "🇨🇭": {
+    "name": "flag Switzerland",
+    "skin_tone_support": false
+  },
+  "🇨🇮": {
+    "name": "flag Côte d’Ivoire",
+    "skin_tone_support": false
+  },
+  "🇨🇰": {
+    "name": "flag Cook Islands",
+    "skin_tone_support": false
+  },
+  "🇨🇱": {
+    "name": "flag Chile",
+    "skin_tone_support": false
+  },
+  "🇨🇲": {
+    "name": "flag Cameroon",
+    "skin_tone_support": false
+  },
+  "🇨🇳": {
+    "name": "flag China",
+    "skin_tone_support": false
+  },
+  "🇨🇴": {
+    "name": "flag Colombia",
+    "skin_tone_support": false
+  },
+  "🇨🇵": {
+    "name": "flag Clipperton Island",
+    "skin_tone_support": false
+  },
+  "🇨🇶": {
+    "name": "flag Sark",
+    "skin_tone_support": false
+  },
+  "🇨🇷": {
+    "name": "flag Costa Rica",
+    "skin_tone_support": false
+  },
+  "🇨🇺": {
+    "name": "flag Cuba",
+    "skin_tone_support": false
+  },
+  "🇨🇻": {
+    "name": "flag Cape Verde",
+    "skin_tone_support": false
+  },
+  "🇨🇼": {
+    "name": "flag Curaçao",
+    "skin_tone_support": false
+  },
+  "🇨🇽": {
+    "name": "flag Christmas Island",
+    "skin_tone_support": false
+  },
+  "🇨🇾": {
+    "name": "flag Cyprus",
+    "skin_tone_support": false
+  },
+  "🇨🇿": {
+    "name": "flag Czechia",
+    "skin_tone_support": false
+  },
+  "🇩🇪": {
+    "name": "flag Germany",
+    "skin_tone_support": false
+  },
+  "🇩🇬": {
+    "name": "flag Diego Garcia",
+    "skin_tone_support": false
+  },
+  "🇩🇯": {
+    "name": "flag Djibouti",
+    "skin_tone_support": false
+  },
+  "🇩🇰": {
+    "name": "flag Denmark",
+    "skin_tone_support": false
+  },
+  "🇩🇲": {
+    "name": "flag Dominica",
+    "skin_tone_support": false
+  },
+  "🇩🇴": {
+    "name": "flag Dominican Republic",
+    "skin_tone_support": false
+  },
+  "🇩🇿": {
+    "name": "flag Algeria",
+    "skin_tone_support": false
+  },
+  "🇪🇦": {
+    "name": "flag Ceuta & Melilla",
+    "skin_tone_support": false
+  },
+  "🇪🇨": {
+    "name": "flag Ecuador",
+    "skin_tone_support": false
+  },
+  "🇪🇪": {
+    "name": "flag Estonia",
+    "skin_tone_support": false
+  },
+  "🇪🇬": {
+    "name": "flag Egypt",
+    "skin_tone_support": false
+  },
+  "🇪🇭": {
+    "name": "flag Western Sahara",
+    "skin_tone_support": false
+  },
+  "🇪🇷": {
+    "name": "flag Eritrea",
+    "skin_tone_support": false
+  },
+  "🇪🇸": {
+    "name": "flag Spain",
+    "skin_tone_support": false
+  },
+  "🇪🇹": {
+    "name": "flag Ethiopia",
+    "skin_tone_support": false
+  },
+  "🇪🇺": {
+    "name": "flag European Union",
+    "skin_tone_support": false
+  },
+  "🇫🇮": {
+    "name": "flag Finland",
+    "skin_tone_support": false
+  },
+  "🇫🇯": {
+    "name": "flag Fiji",
+    "skin_tone_support": false
+  },
+  "🇫🇰": {
+    "name": "flag Falkland Islands",
+    "skin_tone_support": false
+  },
+  "🇫🇲": {
+    "name": "flag Micronesia",
+    "skin_tone_support": false
+  },
+  "🇫🇴": {
+    "name": "flag Faroe Islands",
+    "skin_tone_support": false
+  },
+  "🇫🇷": {
+    "name": "flag France",
+    "skin_tone_support": false
+  },
+  "🇬🇦": {
+    "name": "flag Gabon",
+    "skin_tone_support": false
+  },
+  "🇬🇧": {
+    "name": "flag United Kingdom",
+    "skin_tone_support": false
+  },
+  "🇬🇩": {
+    "name": "flag Grenada",
+    "skin_tone_support": false
+  },
+  "🇬🇪": {
+    "name": "flag Georgia",
+    "skin_tone_support": false
+  },
+  "🇬🇫": {
+    "name": "flag French Guiana",
+    "skin_tone_support": false
+  },
+  "🇬🇬": {
+    "name": "flag Guernsey",
+    "skin_tone_support": false
+  },
+  "🇬🇭": {
+    "name": "flag Ghana",
+    "skin_tone_support": false
+  },
+  "🇬🇮": {
+    "name": "flag Gibraltar",
+    "skin_tone_support": false
+  },
+  "🇬🇱": {
+    "name": "flag Greenland",
+    "skin_tone_support": false
+  },
+  "🇬🇲": {
+    "name": "flag Gambia",
+    "skin_tone_support": false
+  },
+  "🇬🇳": {
+    "name": "flag Guinea",
+    "skin_tone_support": false
+  },
+  "🇬🇵": {
+    "name": "flag Guadeloupe",
+    "skin_tone_support": false
+  },
+  "🇬🇶": {
+    "name": "flag Equatorial Guinea",
+    "skin_tone_support": false
+  },
+  "🇬🇷": {
+    "name": "flag Greece",
+    "skin_tone_support": false
+  },
+  "🇬🇸": {
+    "name": "flag South Georgia & South Sandwich Islands",
+    "skin_tone_support": false
+  },
+  "🇬🇹": {
+    "name": "flag Guatemala",
+    "skin_tone_support": false
+  },
+  "🇬🇺": {
+    "name": "flag Guam",
+    "skin_tone_support": false
+  },
+  "🇬🇼": {
+    "name": "flag Guinea-Bissau",
+    "skin_tone_support": false
+  },
+  "🇬🇾": {
+    "name": "flag Guyana",
+    "skin_tone_support": false
+  },
+  "🇭🇰": {
+    "name": "flag Hong Kong SAR China",
+    "skin_tone_support": false
+  },
+  "🇭🇲": {
+    "name": "flag Heard & McDonald Islands",
+    "skin_tone_support": false
+  },
+  "🇭🇳": {
+    "name": "flag Honduras",
+    "skin_tone_support": false
+  },
+  "🇭🇷": {
+    "name": "flag Croatia",
+    "skin_tone_support": false
+  },
+  "🇭🇹": {
+    "name": "flag Haiti",
+    "skin_tone_support": false
+  },
+  "🇭🇺": {
+    "name": "flag Hungary",
+    "skin_tone_support": false
+  },
+  "🇮🇨": {
+    "name": "flag Canary Islands",
+    "skin_tone_support": false
+  },
+  "🇮🇩": {
+    "name": "flag Indonesia",
+    "skin_tone_support": false
+  },
+  "🇮🇪": {
+    "name": "flag Ireland",
+    "skin_tone_support": false
+  },
+  "🇮🇱": {
+    "name": "flag Israel",
+    "skin_tone_support": false
+  },
+  "🇮🇲": {
+    "name": "flag Isle of Man",
+    "skin_tone_support": false
+  },
+  "🇮🇳": {
+    "name": "flag India",
+    "skin_tone_support": false
+  },
+  "🇮🇴": {
+    "name": "flag British Indian Ocean Territory",
+    "skin_tone_support": false
+  },
+  "🇮🇶": {
+    "name": "flag Iraq",
+    "skin_tone_support": false
+  },
+  "🇮🇷": {
+    "name": "flag Iran",
+    "skin_tone_support": false
+  },
+  "🇮🇸": {
+    "name": "flag Iceland",
+    "skin_tone_support": false
+  },
+  "🇮🇹": {
+    "name": "flag Italy",
+    "skin_tone_support": false
+  },
+  "🇯🇪": {
+    "name": "flag Jersey",
+    "skin_tone_support": false
+  },
+  "🇯🇲": {
+    "name": "flag Jamaica",
+    "skin_tone_support": false
+  },
+  "🇯🇴": {
+    "name": "flag Jordan",
+    "skin_tone_support": false
+  },
+  "🇯🇵": {
+    "name": "flag Japan",
+    "skin_tone_support": false
+  },
+  "🇰🇪": {
+    "name": "flag Kenya",
+    "skin_tone_support": false
+  },
+  "🇰🇬": {
+    "name": "flag Kyrgyzstan",
+    "skin_tone_support": false
+  },
+  "🇰🇭": {
+    "name": "flag Cambodia",
+    "skin_tone_support": false
+  },
+  "🇰🇮": {
+    "name": "flag Kiribati",
+    "skin_tone_support": false
+  },
+  "🇰🇲": {
+    "name": "flag Comoros",
+    "skin_tone_support": false
+  },
+  "🇰🇳": {
+    "name": "flag St. Kitts & Nevis",
+    "skin_tone_support": false
+  },
+  "🇰🇵": {
+    "name": "flag North Korea",
+    "skin_tone_support": false
+  },
+  "🇰🇷": {
+    "name": "flag South Korea",
+    "skin_tone_support": false
+  },
+  "🇰🇼": {
+    "name": "flag Kuwait",
+    "skin_tone_support": false
+  },
+  "🇰🇾": {
+    "name": "flag Cayman Islands",
+    "skin_tone_support": false
+  },
+  "🇰🇿": {
+    "name": "flag Kazakhstan",
+    "skin_tone_support": false
+  },
+  "🇱🇦": {
+    "name": "flag Laos",
+    "skin_tone_support": false
+  },
+  "🇱🇧": {
+    "name": "flag Lebanon",
+    "skin_tone_support": false
+  },
+  "🇱🇨": {
+    "name": "flag St. Lucia",
+    "skin_tone_support": false
+  },
+  "🇱🇮": {
+    "name": "flag Liechtenstein",
+    "skin_tone_support": false
+  },
+  "🇱🇰": {
+    "name": "flag Sri Lanka",
+    "skin_tone_support": false
+  },
+  "🇱🇷": {
+    "name": "flag Liberia",
+    "skin_tone_support": false
+  },
+  "🇱🇸": {
+    "name": "flag Lesotho",
+    "skin_tone_support": false
+  },
+  "🇱🇹": {
+    "name": "flag Lithuania",
+    "skin_tone_support": false
+  },
+  "🇱🇺": {
+    "name": "flag Luxembourg",
+    "skin_tone_support": false
+  },
+  "🇱🇻": {
+    "name": "flag Latvia",
+    "skin_tone_support": false
+  },
+  "🇱🇾": {
+    "name": "flag Libya",
+    "skin_tone_support": false
+  },
+  "🇲🇦": {
+    "name": "flag Morocco",
+    "skin_tone_support": false
+  },
+  "🇲🇨": {
+    "name": "flag Monaco",
+    "skin_tone_support": false
+  },
+  "🇲🇩": {
+    "name": "flag Moldova",
+    "skin_tone_support": false
+  },
+  "🇲🇪": {
+    "name": "flag Montenegro",
+    "skin_tone_support": false
+  },
+  "🇲🇫": {
+    "name": "flag St. Martin",
+    "skin_tone_support": false
+  },
+  "🇲🇬": {
+    "name": "flag Madagascar",
+    "skin_tone_support": false
+  },
+  "🇲🇭": {
+    "name": "flag Marshall Islands",
+    "skin_tone_support": false
+  },
+  "🇲🇰": {
+    "name": "flag North Macedonia",
+    "skin_tone_support": false
+  },
+  "🇲🇱": {
+    "name": "flag Mali",
+    "skin_tone_support": false
+  },
+  "🇲🇲": {
+    "name": "flag Myanmar (Burma)",
+    "skin_tone_support": false
+  },
+  "🇲🇳": {
+    "name": "flag Mongolia",
+    "skin_tone_support": false
+  },
+  "🇲🇴": {
+    "name": "flag Macao SAR China",
+    "skin_tone_support": false
+  },
+  "🇲🇵": {
+    "name": "flag Northern Mariana Islands",
+    "skin_tone_support": false
+  },
+  "🇲🇶": {
+    "name": "flag Martinique",
+    "skin_tone_support": false
+  },
+  "🇲🇷": {
+    "name": "flag Mauritania",
+    "skin_tone_support": false
+  },
+  "🇲🇸": {
+    "name": "flag Montserrat",
+    "skin_tone_support": false
+  },
+  "🇲🇹": {
+    "name": "flag Malta",
+    "skin_tone_support": false
+  },
+  "🇲🇺": {
+    "name": "flag Mauritius",
+    "skin_tone_support": false
+  },
+  "🇲🇻": {
+    "name": "flag Maldives",
+    "skin_tone_support": false
+  },
+  "🇲🇼": {
+    "name": "flag Malawi",
+    "skin_tone_support": false
+  },
+  "🇲🇽": {
+    "name": "flag Mexico",
+    "skin_tone_support": false
+  },
+  "🇲🇾": {
+    "name": "flag Malaysia",
+    "skin_tone_support": false
+  },
+  "🇲🇿": {
+    "name": "flag Mozambique",
+    "skin_tone_support": false
+  },
+  "🇳🇦": {
+    "name": "flag Namibia",
+    "skin_tone_support": false
+  },
+  "🇳🇨": {
+    "name": "flag New Caledonia",
+    "skin_tone_support": false
+  },
+  "🇳🇪": {
+    "name": "flag Niger",
+    "skin_tone_support": false
+  },
+  "🇳🇫": {
+    "name": "flag Norfolk Island",
+    "skin_tone_support": false
+  },
+  "🇳🇬": {
+    "name": "flag Nigeria",
+    "skin_tone_support": false
+  },
+  "🇳🇮": {
+    "name": "flag Nicaragua",
+    "skin_tone_support": false
+  },
+  "🇳🇱": {
+    "name": "flag Netherlands",
+    "skin_tone_support": false
+  },
+  "🇳🇴": {
+    "name": "flag Norway",
+    "skin_tone_support": false
+  },
+  "🇳🇵": {
+    "name": "flag Nepal",
+    "skin_tone_support": false
+  },
+  "🇳🇷": {
+    "name": "flag Nauru",
+    "skin_tone_support": false
+  },
+  "🇳🇺": {
+    "name": "flag Niue",
+    "skin_tone_support": false
+  },
+  "🇳🇿": {
+    "name": "flag New Zealand",
+    "skin_tone_support": false
+  },
+  "🇴🇲": {
+    "name": "flag Oman",
+    "skin_tone_support": false
+  },
+  "🇵🇦": {
+    "name": "flag Panama",
+    "skin_tone_support": false
+  },
+  "🇵🇪": {
+    "name": "flag Peru",
+    "skin_tone_support": false
+  },
+  "🇵🇫": {
+    "name": "flag French Polynesia",
+    "skin_tone_support": false
+  },
+  "🇵🇬": {
+    "name": "flag Papua New Guinea",
+    "skin_tone_support": false
+  },
+  "🇵🇭": {
+    "name": "flag Philippines",
+    "skin_tone_support": false
+  },
+  "🇵🇰": {
+    "name": "flag Pakistan",
+    "skin_tone_support": false
+  },
+  "🇵🇱": {
+    "name": "flag Poland",
+    "skin_tone_support": false
+  },
+  "🇵🇲": {
+    "name": "flag St. Pierre & Miquelon",
+    "skin_tone_support": false
+  },
+  "🇵🇳": {
+    "name": "flag Pitcairn Islands",
+    "skin_tone_support": false
+  },
+  "🇵🇷": {
+    "name": "flag Puerto Rico",
+    "skin_tone_support": false
+  },
+  "🇵🇸": {
+    "name": "flag Palestinian Territories",
+    "skin_tone_support": false
+  },
+  "🇵🇹": {
+    "name": "flag Portugal",
+    "skin_tone_support": false
+  },
+  "🇵🇼": {
+    "name": "flag Palau",
+    "skin_tone_support": false
+  },
+  "🇵🇾": {
+    "name": "flag Paraguay",
+    "skin_tone_support": false
+  },
+  "🇶🇦": {
+    "name": "flag Qatar",
+    "skin_tone_support": false
+  },
+  "🇷🇪": {
+    "name": "flag Réunion",
+    "skin_tone_support": false
+  },
+  "🇷🇴": {
+    "name": "flag Romania",
+    "skin_tone_support": false
+  },
+  "🇷🇸": {
+    "name": "flag Serbia",
+    "skin_tone_support": false
+  },
+  "🇷🇺": {
+    "name": "flag Russia",
+    "skin_tone_support": false
+  },
+  "🇷🇼": {
+    "name": "flag Rwanda",
+    "skin_tone_support": false
+  },
+  "🇸🇦": {
+    "name": "flag Saudi Arabia",
+    "skin_tone_support": false
+  },
+  "🇸🇧": {
+    "name": "flag Solomon Islands",
+    "skin_tone_support": false
+  },
+  "🇸🇨": {
+    "name": "flag Seychelles",
+    "skin_tone_support": false
+  },
+  "🇸🇩": {
+    "name": "flag Sudan",
+    "skin_tone_support": false
+  },
+  "🇸🇪": {
+    "name": "flag Sweden",
+    "skin_tone_support": false
+  },
+  "🇸🇬": {
+    "name": "flag Singapore",
+    "skin_tone_support": false
+  },
+  "🇸🇭": {
+    "name": "flag St. Helena",
+    "skin_tone_support": false
+  },
+  "🇸🇮": {
+    "name": "flag Slovenia",
+    "skin_tone_support": false
+  },
+  "🇸🇯": {
+    "name": "flag Svalbard & Jan Mayen",
+    "skin_tone_support": false
+  },
+  "🇸🇰": {
+    "name": "flag Slovakia",
+    "skin_tone_support": false
+  },
+  "🇸🇱": {
+    "name": "flag Sierra Leone",
+    "skin_tone_support": false
+  },
+  "🇸🇲": {
+    "name": "flag San Marino",
+    "skin_tone_support": false
+  },
+  "🇸🇳": {
+    "name": "flag Senegal",
+    "skin_tone_support": false
+  },
+  "🇸🇴": {
+    "name": "flag Somalia",
+    "skin_tone_support": false
+  },
+  "🇸🇷": {
+    "name": "flag Suriname",
+    "skin_tone_support": false
+  },
+  "🇸🇸": {
+    "name": "flag South Sudan",
+    "skin_tone_support": false
+  },
+  "🇸🇹": {
+    "name": "flag São Tomé & Príncipe",
+    "skin_tone_support": false
+  },
+  "🇸🇻": {
+    "name": "flag El Salvador",
+    "skin_tone_support": false
+  },
+  "🇸🇽": {
+    "name": "flag Sint Maarten",
+    "skin_tone_support": false
+  },
+  "🇸🇾": {
+    "name": "flag Syria",
+    "skin_tone_support": false
+  },
+  "🇸🇿": {
+    "name": "flag Eswatini",
+    "skin_tone_support": false
+  },
+  "🇹🇦": {
+    "name": "flag Tristan da Cunha",
+    "skin_tone_support": false
+  },
+  "🇹🇨": {
+    "name": "flag Turks & Caicos Islands",
+    "skin_tone_support": false
+  },
+  "🇹🇩": {
+    "name": "flag Chad",
+    "skin_tone_support": false
+  },
+  "🇹🇫": {
+    "name": "flag French Southern Territories",
+    "skin_tone_support": false
+  },
+  "🇹🇬": {
+    "name": "flag Togo",
+    "skin_tone_support": false
+  },
+  "🇹🇭": {
+    "name": "flag Thailand",
+    "skin_tone_support": false
+  },
+  "🇹🇯": {
+    "name": "flag Tajikistan",
+    "skin_tone_support": false
+  },
+  "🇹🇰": {
+    "name": "flag Tokelau",
+    "skin_tone_support": false
+  },
+  "🇹🇱": {
+    "name": "flag Timor-Leste",
+    "skin_tone_support": false
+  },
+  "🇹🇲": {
+    "name": "flag Turkmenistan",
+    "skin_tone_support": false
+  },
+  "🇹🇳": {
+    "name": "flag Tunisia",
+    "skin_tone_support": false
+  },
+  "🇹🇴": {
+    "name": "flag Tonga",
+    "skin_tone_support": false
+  },
+  "🇹🇷": {
+    "name": "flag Türkiye",
+    "skin_tone_support": false
+  },
+  "🇹🇹": {
+    "name": "flag Trinidad & Tobago",
+    "skin_tone_support": false
+  },
+  "🇹🇻": {
+    "name": "flag Tuvalu",
+    "skin_tone_support": false
+  },
+  "🇹🇼": {
+    "name": "flag Taiwan",
+    "skin_tone_support": false
+  },
+  "🇹🇿": {
+    "name": "flag Tanzania",
+    "skin_tone_support": false
+  },
+  "🇺🇦": {
+    "name": "flag Ukraine",
+    "skin_tone_support": false
+  },
+  "🇺🇬": {
+    "name": "flag Uganda",
+    "skin_tone_support": false
+  },
+  "🇺🇲": {
+    "name": "flag U.S. Outlying Islands",
+    "skin_tone_support": false
+  },
+  "🇺🇳": {
+    "name": "flag United Nations",
+    "skin_tone_support": false
+  },
+  "🇺🇸": {
+    "name": "flag United States",
+    "skin_tone_support": false
+  },
+  "🇺🇾": {
+    "name": "flag Uruguay",
+    "skin_tone_support": false
+  },
+  "🇺🇿": {
+    "name": "flag Uzbekistan",
+    "skin_tone_support": false
+  },
+  "🇻🇦": {
+    "name": "flag Vatican City",
+    "skin_tone_support": false
+  },
+  "🇻🇨": {
+    "name": "flag St. Vincent & Grenadines",
+    "skin_tone_support": false
+  },
+  "🇻🇪": {
+    "name": "flag Venezuela",
+    "skin_tone_support": false
+  },
+  "🇻🇬": {
+    "name": "flag British Virgin Islands",
+    "skin_tone_support": false
+  },
+  "🇻🇮": {
+    "name": "flag U.S. Virgin Islands",
+    "skin_tone_support": false
+  },
+  "🇻🇳": {
+    "name": "flag Vietnam",
+    "skin_tone_support": false
+  },
+  "🇻🇺": {
+    "name": "flag Vanuatu",
+    "skin_tone_support": false
+  },
+  "🇼🇫": {
+    "name": "flag Wallis & Futuna",
+    "skin_tone_support": false
+  },
+  "🇼🇸": {
+    "name": "flag Samoa",
+    "skin_tone_support": false
+  },
+  "🇽🇰": {
+    "name": "flag Kosovo",
+    "skin_tone_support": false
+  },
+  "🇾🇪": {
+    "name": "flag Yemen",
+    "skin_tone_support": false
+  },
+  "🇾🇹": {
+    "name": "flag Mayotte",
+    "skin_tone_support": false
+  },
+  "🇿🇦": {
+    "name": "flag South Africa",
+    "skin_tone_support": false
+  },
+  "🇿🇲": {
+    "name": "flag Zambia",
+    "skin_tone_support": false
+  },
+  "🇿🇼": {
+    "name": "flag Zimbabwe",
+    "skin_tone_support": false
+  },
+  "🏴󠁧󠁢󠁥󠁮󠁧󠁿": {
+    "name": "flag England",
+    "skin_tone_support": false
+  },
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿": {
+    "name": "flag Scotland",
+    "skin_tone_support": false
+  },
+  "🏴󠁧󠁢󠁷󠁬󠁳󠁿": {
+    "name": "flag Wales",
+    "skin_tone_support": false
+  }
+}

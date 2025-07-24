@@ -47,13 +47,13 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 
 		switch msg.String() {
 		case "up", "k":
-			if (m.cursor - TABLE_HEIGHT > 0) {
-				m.cursor -= TABLE_HEIGHT
+			if (m.cursor - TABLE_WIDTH > 0) {
+				m.cursor -= TABLE_WIDTH
 				processScroll(m.cursor, &m.offset)
 			}
 		case "down", "j":
-			if (m.cursor + TABLE_HEIGHT < len(m.emojis)) {
-				m.cursor += TABLE_HEIGHT
+			if (m.cursor + TABLE_WIDTH < len(m.emojis)) {
+				m.cursor += TABLE_WIDTH
 				processScroll(m.cursor, &m.offset)
 			}
 		case "left", "h":
@@ -82,6 +82,9 @@ func (m model) View() string {
 	for i < table_range_end {
 		if (i > len(m.emojis) - 1) {
 			break
+		}
+		if (m.cursor == i) {
+			s += "-"
 		}
 		s += m.emojis[i].Emoji
 		width_counter++

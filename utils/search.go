@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-const emoji_json_path = "./data-by-emoji.json"
+const emoji_json_path = "./data/data-by-emoji.json"
 
 type Emoji struct {
 	Emoji string 

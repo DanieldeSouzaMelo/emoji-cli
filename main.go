@@ -2,10 +2,13 @@ package main
 
 import (
 	"fmt"
-	tea "github.com/charmbracelet/bubbletea"
+	"os"
+	"github.com/loudercake/emoji-cli/utils"
 )
 
 
 func main() {
-	fmt.Println("ye")
+	query := os.Args[1]
+	emoji_list := utils.GetEmojis()
+	fmt.Println(utils.SearchEmojis(&emoji_list, query))
 }

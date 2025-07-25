@@ -5,6 +5,7 @@ import (
 	"os"
 
 	tea "github.com/charmbracelet/bubbletea"
+	"github.com/charmbracelet/lipgloss"
 	"github.com/loudercake/emoji-cli/utils"
 	"github.com/atotto/clipboard"
 )
@@ -17,6 +18,8 @@ type model struct {
 	cursor int
 	offset int
 }
+
+var selected_style = lipgloss.NewStyle().Background(lipgloss.Color("7"))
 
 func initialModel() model {
 	emoji_list := utils.GetEmojis()
@@ -79,7 +82,8 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 }
 
 func (m model) View() string {
-	s := fmt.Sprintf("cursor: %d, offset: %d\n", m.cursor, m.offset)
+	// s := fmt.Sprintf("cursor: %d, offset: %d\n", m.cursor, m.offset)
+	s := ""
 	table_range_start := (m.offset * TABLE_WIDTH)
 	table_range_end := (TABLE_WIDTH * TABLE_HEIGHT) + (m.offset * TABLE_WIDTH)
 	i := table_range_start
@@ -89,9 +93,10 @@ func (m model) View() string {
 			break
 		}
 		if (m.cursor == i) {
-			s += "-"
+			s += selected_style.Render(m.emojis[i].Emoji)	
+		} else {
+			s += m.emojis[i].Emoji
 		}
-		s += m.emojis[i].Emoji
 		width_counter++
 		if (width_counter == TABLE_WIDTH) {
 		s += "\n" 

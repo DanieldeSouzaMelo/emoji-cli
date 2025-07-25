@@ -3,8 +3,10 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/loudercake/emoji-cli/utils"
+
 	tea "github.com/charmbracelet/bubbletea"
+	"github.com/loudercake/emoji-cli/utils"
+	"github.com/atotto/clipboard"
 )
 
 const TABLE_HEIGHT = 5
@@ -67,6 +69,9 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 				processScroll(m.cursor, &m.offset)
 			}
 		case "q", "ctrl+c":
+			return m, tea.Quit
+		case "enter":
+			clipboard.WriteAll(m.emojis[m.cursor].Emoji)
 			return m, tea.Quit
 		}
 	}

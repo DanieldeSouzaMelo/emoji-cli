@@ -25,7 +25,11 @@ func initialModel() model {
 	emoji_list := utils.GetEmojis()
 	if (os.Args[1] != "") {
 		emoji_list = utils.SearchEmojis(&emoji_list, os.Args[1])
-	} 
+	}
+	if (len(emoji_list) == 0) {
+		fmt.Println("No results found.")
+		os.Exit(1)
+	}
 	return model{
 		emojis: emoji_list,
 		cursor: 0,
@@ -97,6 +101,7 @@ func (m model) View() string {
 		} else {
 			s += m.emojis[i].Emoji
 		}
+		s+="|"
 		width_counter++
 		if (width_counter == TABLE_WIDTH) {
 		s += "\n" 
@@ -108,6 +113,9 @@ func (m model) View() string {
 }
 
 func main() {
+	if (len(os.Args) < 0) {
+		fmt.Print("No argument found.")
+	}
 	p := tea.NewProgram(initialModel())
     if _, err := p.Run(); err != nil {
         fmt.Printf("Alas, there's been an error: %v", err)

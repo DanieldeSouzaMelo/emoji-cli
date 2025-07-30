@@ -2,4 +2,5 @@
 
 ## Installation
 `go build -o emoji main.go`
+
 `./emoji health`

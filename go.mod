@@ -1,4 +1,4 @@
-module github.com/loudercake/emoji-cli
+module github.com/DanieldeSouzaMelo/emoji-cli
 
 go 1.24.5
 

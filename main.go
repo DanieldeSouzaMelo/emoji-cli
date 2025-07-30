@@ -109,12 +109,14 @@ func (m model) View() string {
 		}
 		i++
 	}
+	s += m.emojis[m.cursor].Name
 	return s
 }
 
 func main() {
-	if (len(os.Args) < 0) {
-		fmt.Print("No argument found.")
+	if (len(os.Args) < 2) {
+		fmt.Println("No arguments found.")
+		os.Exit(1)
 	}
 	p := tea.NewProgram(initialModel())
     if _, err := p.Run(); err != nil {

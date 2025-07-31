@@ -6,7 +6,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/loudercake/emoji-cli/utils"
+	"github.com/DanieldeSouzaMelo/emoji-cli/utils"
 	"github.com/atotto/clipboard"
 )
 
@@ -23,9 +23,7 @@ var selected_style = lipgloss.NewStyle().Background(lipgloss.Color("7"))
 
 func initialModel() model {
 	emoji_list := utils.GetEmojis()
-	if (os.Args[1] != "") {
-		emoji_list = utils.SearchEmojis(&emoji_list, os.Args[1])
-	}
+	emoji_list = utils.SearchEmojis(&emoji_list, os.Args[1])
 	if (len(emoji_list) == 0) {
 		fmt.Println("No results found.")
 		os.Exit(1)
@@ -89,7 +87,7 @@ func (m model) View() string {
 	// s := fmt.Sprintf("cursor: %d, offset: %d\n", m.cursor, m.offset)
 	s := ""
 	table_range_start := (m.offset * TABLE_WIDTH)
-	table_range_end := (TABLE_WIDTH * TABLE_HEIGHT) + (m.offset * TABLE_WIDTH)
+	table_range_end := (TABLE_WIDTH * TABLE_HEIGHT) + table_range_start
 	i := table_range_start
 	width_counter := 0
 	for i < table_range_end {
@@ -108,6 +106,9 @@ func (m model) View() string {
 		width_counter = 0
 		}
 		i++
+	}
+	if (s[len(s)-1] != '\n'){ // guarantees newline for emoji name
+		s += "\n"
 	}
 	s += m.emojis[m.cursor].Name
 	return s
